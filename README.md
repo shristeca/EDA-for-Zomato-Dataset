@@ -42,6 +42,8 @@ The ER diagram is used to sketch the outline of the database in the form of tabl
 Each tables has its own primary key and the relation with the other tables are given by the foreign keys.
 In this ER diagram all tables have a one to many relationship with the restaurant table. The relational schema diagram is been created using the SQL server by uploading the CSV files.
 
+![image](https://user-images.githubusercontent.com/52580630/86417390-c270b680-bcc4-11ea-8da8-be2ac1d11682.png)
+
 ### STAR SCHEMA 
 
 Star schema is the data mart architecture model. It contains the facts and the dimension tables.
@@ -60,6 +62,156 @@ Fact Tables
 Fact_Restaurant_Survey
 
 The Fact table has a grain which gives the aggregate rating and number of votes given for a restaurant located at a particular place which accepts a certain payement method with the specific rating text during a period of time.
+
+![image](https://user-images.githubusercontent.com/52580630/86417411-d4525980-bcc4-11ea-927d-44750851cc95.png)
+
+### ETL
+
+ETL is the process of Extracting, Transforming and Loading the data from one data source into another source done using a single tool. It is mainly done on SSIS and SSMS platform.
+
+Here we are using SSMS platform where a query is written to implement the tables.
+
+First a table is created using CREATE TABLE command where we specify the attributes to be created within the table.
+Next we are inserting values to the attributes through any source using the INSERT INTO statement. Here we are getting the values from the CSV files and adding it into the tables created using the SELECT statement.
+ 
+Below is the SQL query written the create all the dimension and the fact tables.
+
+#### DIM_RATING
+
+```
+CREATE TABLE Dim_Rating
+(
+Rating_ID varchar(30) not null primary key,
+Rating_color varchar(30),
+Rating_text varchar(30),
+)
+
+
+INSERT Dim_Rating (    
+             Rating_ID,  
+			 Rating_color,   
+			 Rating_text)
+SELECT       Rating_ID,  
+			 Rating_color,   
+			 Rating_text
+FROM Rating_Details;
+```
+
+#### DIM_PAYMENT_METHOD
+```
+CREATE TABLE Dim_Payment_Method
+(
+Payment_ID varchar(30) not null primary key,
+Accepted_Payment_Methods varchar(300),
+Accepted_Currency varchar(30),
+)
+
+INSERT Dim_Payment_Method (
+               Payment_ID,
+			   Accepted_Payment_Methods,
+			   Accepted_Currency)
+SELECT Payment_ID,
+			   Accepted_Payment_Methods,
+			   Accepted_Currency
+FROM Payment_Method_Details
+```
+
+#### DIM_LOCATION
+```
+CREATE TABLE Dim_Location (
+                Address_ID varchar(30) not null primary key,
+                Address varchar(100),
+                Locality varchar(300),
+                City varchar(300),
+				Latitude varchar(30),
+				Longitude varchar(30),)
+
+
+INSERT Dim_Location (
+                Address_ID,
+                Address,
+                Locality,
+                City,
+				Latitude,
+				Longitude)
+SELECT ad.Address_ID,
+       ad.Address,
+                ad.Locality,
+                cd.CityName,
+				ad.Latitude,
+				ad.Longitude 
+FROM Address_Details ad
+    ,City_Details cd
+WHERE ad.City_ID = cd.City_ID
+```
+#### DIM_RESTAURANT
+```
+CREATE TABLE Dim_Restaurant
+(
+Restaurant_ID varchar(30) not null primary key,
+Restaurant_Name varchar(300),
+Cuisines varchar(700),
+Has_Table_booking varchar(300),
+Has_Online_delivery varchar(300),
+Average_Cost_for_two varchar(300),
+)
+
+INSERT Dim_Restaurant
+(
+Restaurant_ID,
+Restaurant_Name,
+Cuisines,
+Has_Table_booking,
+Has_Online_delivery,
+Average_Cost_for_two
+)
+SELECT Restaurant_ID,
+Restaurant_Name,
+Cuisines,
+Has_Table_booking,
+Has_Online_delivery,
+Average_Cost_for_two
+FROM Restaurant_Details
+```
+
+#### FACT_RESTAURANT_SURVEY
+
+```
+CREATE TABLE Fact_Restaurant_Survey
+(
+Restaurant_ID varchar(30) not null REFERENCES Dim_Restaurant(Restaurant_ID),
+Address_ID varchar(30) not null REFERENCES Dim_Location(Address_ID),
+Payment_ID varchar(30) not null REFERENCES Dim_Payment_Method(Payment_ID),
+Rating_ID varchar(30) not null REFERENCES Dim_Rating(Rating_ID),
+Date_ID int not null REFERENCES Dim_Date(Date_ID),
+No_of_Votes int,
+Aggregate_Rating float
+)
+
+INSERT Fact_Restaurant_Survey(Restaurant_ID,
+                              Address_ID,
+							  Payment_ID,
+							  Rating_ID,
+							  Date_ID,
+							  No_of_Votes,
+							  Aggregate_Rating)
+SELECT rd.Restaurant_ID,
+       ad.Address_ID,
+	   pd.Payment_ID,
+	   rad.Rating_ID,
+	   dt.Date_ID,
+	   rd.Votes,
+	   rd.Aggregate_Rating
+FROM Restaurant_Details rd,
+     Address_Details ad,
+	 Payment_Method_Details pd,
+	 Rating_Details rad,
+	 Dim_Date dt
+where rd.address_ID = ad.Address_ID
+and rd.payment_ID = pd.Payment_ID
+and rd.Rating_ID = rad.Rating_ID
+and dt.Date = rd.Date_Analyzed
+```
 
 ### VISUALIZATIONS
 Data visualization is the pictorial representation of the data. It helps us to grasp difficult concepts more easier than analyzing it in the form of csv or other file formats.
