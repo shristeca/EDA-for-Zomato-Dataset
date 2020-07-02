@@ -217,6 +217,30 @@ and dt.Date = rd.Date_Analyzed
 Data visualization is the pictorial representation of the data. It helps us to grasp difficult concepts more easier than analyzing it in the form of csv or other file formats.
 For the analysis of zomato data mart 4 plots has been created in R Studio.
 
+#### NO OF RESTAURANTS PROVIDING ONLINE DELIVERY SERVICE
+
+![image](https://user-images.githubusercontent.com/52580630/86417741-e1237d00-bcc5-11ea-8e00-557b9a7e61c0.png)
+
+The graph is plotted for the number of restaurants in a city that has online delivery services. We can say from the graph that most of the cities have restaurants that provide online delivery service. Orlando has the maximum no of restaurants that provides this service. 
+
+#### POPULAR CUISINES IN THE UNITED STATES
+
+![image](https://user-images.githubusercontent.com/52580630/86417746-e7b1f480-bcc5-11ea-9a34-576e4b0b4e22.png)
+
+The bar plot depicts the most popular cuisine in the United States. It shows us the top 10 popular cuisines with the number of restaurants serving it.
+
+#### COST VS RATINGS
+
+![image](https://user-images.githubusercontent.com/52580630/86417750-ebde1200-bcc5-11ea-9094-d990ee0d8d86.png)
+
+A boxplot is done to show the relation between average cost for two and overall rating for the restaurant. The ratings differs from 2-4 for the average cost between 10 and 30. We can notice that as the cost increases the restaurants have been provided with good number of ratings. So the Restaurants with higher rates provides best quality of food and service when compared with the other restaurants.
+
+#### VOTES VS RATING
+
+![image](https://user-images.githubusercontent.com/52580630/86417754-f00a2f80-bcc5-11ea-8985-884ce474395e.png)
+
+A line graph is drawn for the number of votes got and the average rating. The restaurants with lesser votes also have average rating of 4. So the rating does not increases with the number of votes. 
+
 ### REPORTS	
 Reports are documents produced as a result of the data analyzed.
 Reports Produced:
