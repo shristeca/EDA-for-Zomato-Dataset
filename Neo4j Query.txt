@@ -1,0 +1,49 @@
+
+LOAD CSV WITH HEADERS FROM 'file:///CityDetails.csv' AS line
+CREATE (:City { ID: line.City_ID, CityName:line.CityName})
+
+
+LOAD CSV WITH HEADERS FROM 'file:///AddressDetails.csv' AS line
+CREATE (:Address { AddressID: line.Address_ID, CityID:line.City_ID, CityName:line.CityName, Address:line.Address, Locality:line.Locality, Longitude:line.Longitude, Latitude:line.Latitude })
+
+
+LOAD CSV WITH HEADERS FROM 'file:///PaymentMethods.csv' AS line
+CREATE (:Payment { PaymentID: line.Payment_ID, PaymentMethods:line.Accepted_Payment_Methods, Currency:line.Accepted_Currency})
+
+
+LOAD CSV WITH HEADERS FROM 'file:///RatingDetails.csv' AS line
+CREATE (:Ratings { RatingID: line.Rating_ID, Color:line.RatingColor, Text:line.RatingText})
+
+
+LOAD CSV WITH HEADERS FROM 'file:///RestaurantDetails.csv' AS line
+CREATE (:Restaurants { RestaurantID: line.RestaurantID, Name:line.RestaurantName, Cuisines:line.Cuisines, AverageCostforTwo:line.AverageCostforTwo, 
+HasTableBooking:line.HasTableBooking, HasOnlineDelivery: line.HasOnlineDelivery, AggregateRating:toFloat(line.AggregateRating), NoOfReviews:line.Votes
+,AddressID: line.Address_ID, PaymentID: line.Payment_ID, RatingID: line.Rating_ID})
+
+-------------
+LOAD CSV WITH HEADERS FROM "file:///RestaurantDetails.csv" AS line
+MATCH (restaurant:Restaurants {RestaurantID: line.RestaurantID})
+MATCH (rating:Ratings {RatingID: line.Rating_ID})
+MERGE (rating)-[:IS_THE_OVERALL_REVIEW_FOR]->(restaurant);
+
+
+LOAD CSV WITH HEADERS FROM "file:///RestaurantDetails.csv" AS line
+MATCH (restaurant:Restaurants {RestaurantID: line.RestaurantID})
+MATCH (pay:Payment {PaymentID: line.Payment_ID})
+MERGE (pay)-[:ACCEPTED_BY]->(restaurant);
+
+
+LOAD CSV WITH HEADERS FROM "file:///RestaurantDetails.csv" AS line
+MATCH (restaurant:Restaurants {RestaurantID: line.RestaurantID})
+MATCH (city:City {ID: line.City_ID})
+MERGE (restaurant)-[:LOCATED_IN] -> (city);
+
+-----
+MATCH (rat:Ratings {Color: 'Dark Green'})-[:IS_THE_OVERALL_REVIEW_FOR]->(r:Restaurants)<-[:ACCEPTED_BY]-(pay)
+RETURN rat.Text, r.Name, r.AggregateRating, r.Cuisines, pay.PaymentMethods
+ORDER BY r.AggregateRating DESC
+LIMIT 5;
+
+
+MATCH (rat:Ratings {Color: 'Dark Green'})-[:IS_THE_OVERALL_REVIEW_FOR]->(r:Restaurants)-[:LOCATED_IN]->(city)
+RETURN rat.Text, r.Name, r.AggregateRating, r.Cuisines, city.CityName
