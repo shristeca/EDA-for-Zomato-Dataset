@@ -1,0 +1,435 @@
+Address_ID,City_ID,Address,Locality,Longitude,Latitude
+ADD_001,CIT_001,"2820 Meredyth Dr, Albany, GA 31707",Albany,-84.221535,31.610387
+ADD_002,CIT_001,"2401 Dawson Rd, Albany, GA 31707",Albany,-84.207095,31.608743
+ADD_003,CIT_001,"115 N Jackson St, Albany, GA 31701",Albany,-84.154,31.5772
+ADD_004,CIT_001,"2700 Dawson Rd, Albany, GA 31707",Albany,-84.2194,31.6158
+ADD_005,CIT_001,"2726 Ledo Rd Ste 10, Albany, GA 31707",Albany,-84.206944,31.622412
+ADD_006,CIT_001,"814 N Slappey Blvd, Albany, GA 31701",Albany,-84.1759,31.5882
+ADD_007,CIT_001,"2703 Dawson Rd, Albany, GA 31707",Albany,-84.2193,31.616
+ADD_008,CIT_001,"1214 N Westover Blvd, Albany, GA 31707",Albany,-84.2091458,31.6155186
+ADD_009,CIT_001,"2347 Dawson Road, Albany, GA 31707",Albany,-84.205718,31.604905
+ADD_010,CIT_001,"629 N. Westover Blvd, Albany, GA 31707",Albany,-84.223278,31.612121
+ADD_011,CIT_001,"2700 Dawson Rd, Albany, GA 31707",Albany,-84.2191,31.6156
+ADD_012,CIT_001,"2526 Dawson Rd Ste A, Albany, GA 31707",Albany,-84.212,31.6104
+ADD_013,CIT_001,"204 S Jackson St, Albany, GA 31701",Albany,-84.1534,31.5751
+ADD_014,CIT_001,"547 N Westover Blvd, Albany, GA 31707",Albany,-84.2228,31.6077
+ADD_015,CIT_001,"2733 Dawson Rd, Albany, GA 31707",Albany,-84.2229,31.6185
+ADD_016,CIT_001,"2610 Dawson Rd, Albany, GA 31707",Albany,-84.2164,31.6137
+ADD_017,CIT_001,"629 N Westover Blvd, Albany, GA 31707",Albany,-84.2233,31.6118
+ADD_018,CIT_001,"2332 Whispering Pines Road, Albany, GA 31707",Albany,-84.205025,31.605882
+ADD_019,CIT_001,"1604 N Slappey Blvd, Albany, GA 31701",Albany,-84.1757,31.5985
+ADD_020,CIT_001,"202 W Franklin St, Sylvester, GA 31791",Sylvester,-83.8389,31.5308
+ADD_021,CIT_002,"184 W Clayton St, Athens, GA 30601",Athens,-83.378273,33.957999
+ADD_022,CIT_002,"197 Oak St, GA 30601",Athens,-83.3654,33.9535
+ADD_023,CIT_002,"175 Tallassee Rd, Athens, GA 30606",Athens,-83.4293,33.9652
+ADD_024,CIT_002,"1055 Gaines School Rd Ste 100, Athens, GA 30605",Athens,-83.3389,33.9259
+ADD_025,CIT_002,"171 College Ave, Athens, GA 30601",Athens,-83.375523,33.958198
+ADD_026,CIT_002,"393 N Finley St, Athens, GA 30601",Athens,-83.384004,33.959392
+ADD_027,CIT_002,"259 W Washington St, Athens, GA 30601",Athens,-83.3797,33.9584
+ADD_028,CIT_002,"401 E Broad St, Athens, GA 30601",Athens,-83.373596,33.958112
+ADD_029,CIT_002,"1965 Barnett Shoals Rd, Athens, GA 30605",Athens,-83.33995,33.924275
+ADD_030,CIT_002,"1073 South Milledge Ave, Athens, GA 30605",Athens,-83.3872482,33.9415545
+ADD_031,CIT_002,"199 Prince Ave, Athens, GA 30601",Athens,-83.381625,33.960112
+ADD_032,CIT_002,"1307 Prince Ave, Athens, GA 30606",Athens,-83.400887,33.963296
+ADD_033,CIT_002,"323 E Broad St, Athens, GA 30601",Athens,-83.4075,33.9584
+ADD_034,CIT_002,"251 W Clayton St, Athens, GA 30601",Athens,-83.379251,33.957503
+ADD_035,CIT_002,"334 Prince Ave, Athens, GA 30601",Athens,-83.383605,33.960571
+ADD_036,CIT_002,"232 W. Hancock Ave., Athens, GA 30601",Athens,-83.37967,33.959468
+ADD_037,CIT_002,"1675 S. Lumpkin St., Athens, GA 30606",Athens,-83.38728,33.937502
+ADD_038,CIT_002,"145 E Clayton St, Athens, GA 30601",Athens,-83.3764,33.9584
+ADD_039,CIT_002,"269 N Hull St, Athens, GA 30601",Athens,-83.378881,33.958363
+ADD_040,CIT_002,"247 Prince Ave, Athens, GA 30601",Athens,-83.3828224,33.9600227
+ADD_041,CIT_003,"1315 Augusta West Pkwy, Augusta, GA 30909",Augusta,-82.0865,33.4721
+ADD_042,CIT_003,"3208 W Wimbledon Dr, Augusta, GA 30909",Augusta,-82.0698,33.4791
+ADD_043,CIT_003,"211 10th Street, Augusta, GA 30901",Augusta,-81.97,33.4765
+ADD_044,CIT_003,"10 9th St, Augusta, GA 30901",Augusta,-81.9684,33.474
+ADD_045,CIT_003,"1204 Broad St, Augusta, GA 30901",Augusta,-81.973006,33.477444
+ADD_046,CIT_003,"505 Railroad Ave, North Augusta, GA 29841",Augusta,-81.965571,33.481779
+ADD_047,CIT_003,"2250 Sconyers Way, Augusta, GA 30906",Augusta,-82.0327,33.4086
+ADD_048,CIT_003,"1282 broad street, Augusta, GA 30901",Augusta,-81.974944,33.478231
+ADD_049,CIT_003,"3690 Wheeler Rd, Augusta, GA 30909",Augusta,-82.096,33.4827
+ADD_050,CIT_003,"1167 Broad St, Augusta, GA 30901",Augusta,-81.9721,33.4778
+ADD_051,CIT_003,"976 Broad St, Augusta, GA 30901",Augusta,-81.9694,33.4764
+ADD_052,CIT_003,"3051 Washington Rd, Augusta, GA 30907",Augusta,-82.0505,33.5133
+ADD_053,CIT_003,"437 Highland Ave, Augusta, GA 30909",Augusta,-82.0301,33.4848
+ADD_054,CIT_003,"Augusta Mall, Augusta, GA 30909",Augusta,-82.080788,33.467201
+ADD_055,CIT_003,"502 Furys Ferry Rd, Augusta, GA 30907",Augusta,-82.0805493,33.5375868
+ADD_056,CIT_003,"4460 Washington Road, Evans, GA 30809",Evans,-82.143793,33.544342
+ADD_057,CIT_003,"4300 Towne Centre, Evans, GA 30809",Evans,-82.126161,33.532249
+ADD_058,CIT_003,"303 North Bel Air Rd, Evans, GA 30809",Evans,-82.141284,33.521291
+ADD_059,CIT_003,"4357 Washington Road, Evans, GA 30809",Evans,-82.1328,33.5406
+ADD_060,CIT_003,"5174 Wrightsboro Rd, Grovetown, GA 30813",Grovetown,-82.1997,33.4574
+ADD_061,CIT_004,"610 W Grove St, Boise, ID 83702",Boise,-116.2019,43.6138
+ADD_062,CIT_004,"800 W Main Suite 230, Boise, ID 83702",Boise,-116.203466,43.616068
+ADD_063,CIT_004,"108 S Capitol Blvd, Boise, ID 83702",Boise,-116.2023,43.6149
+ADD_064,CIT_004,"981 W Grove St, Boise, ID 83702",Boise,-116.2064,43.6157
+ADD_065,CIT_004,"202 S Capitol Blvd, Boise, ID 83702",Boise,-116.2031,43.614
+ADD_066,CIT_004,"276 Bobwhite Ct, Boise, ID 83706",Boise,-116.185034,43.597235
+ADD_067,CIT_004,"1289 Protest Rd, Boise, ID 83706",Boise,-116.2062,43.5945
+ADD_068,CIT_004,"246 N 8th St, Boise, ID 83702",Boise,-116.2022,43.6167
+ADD_069,CIT_004,"204 N Capitol Blvd, Boise, ID 83702",Boise,-116.193409,43.610279
+ADD_070,CIT_004,"6508 W Fairview Ave, Boise, ID 83704",Boise,-116.2625,43.6192
+ADD_071,CIT_004,"199 N 8th St, Boise, ID 83702",Boise,-116.202845,43.616295
+ADD_072,CIT_004,"235 N 5th St, Boise, ID 83702",Boise,-116.199,43.615
+ADD_073,CIT_004,"5220 W Fairview Ave, Boise, ID 83706",Boise,-116.2463,43.6191
+ADD_074,CIT_004,"11 N Orchard St, Boise, ID 83706",Boise,-116.245165,43.6051379
+ADD_075,CIT_004,"750 W Idaho St, Boise, ID 83702",Boise,-116.2021,43.6162
+ADD_076,CIT_004,"100 N 8th St, Boise, ID 83702",Boise,-116.2031,43.6156
+ADD_077,CIT_004,"8061 W Fairview Ave, Boise, ID 83704",Boise,-116.281809,43.619274
+ADD_078,CIT_004,"1388 S Entertainment Ave, Boise, ID 83709",Boise,-116.280614,43.591706
+ADD_079,CIT_004,"3801 E Fairview Avenue, Meridian, Boise, ID 83642",Meridian,-116.347304,43.619108
+ADD_080,CIT_004,"320 11th Avenue S, Nampa, ID 83651",Nampa,-116.5629,43.5777
+ADD_081,CIT_005,"3847 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6336,42.0179
+ADD_082,CIT_005,"320 Collins Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6327,42.0281
+ADD_083,CIT_005,"3300 Johnson Ave NW, Cedar Rapids, IA 52405",Cedar Rapids,-91.7148,41.9748
+ADD_084,CIT_005,"4755 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6224,42.0249
+ADD_085,CIT_005,"3207 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6347,42.01
+ADD_086,CIT_005,"1060 Old Marion Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6499622,42.0215347
+ADD_087,CIT_005,"4362 16th Ave SW, Cedar Rapids, IA 52404",Cedar Rapids,-91.7266,41.9639
+ADD_088,CIT_005,"540 Boyson Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6394,42.0468
+ADD_089,CIT_005,"303 2nd Street, Coralville, IA 52241",Coralville,-91.569767,41.670466
+ADD_090,CIT_005,"102 2nd Ave, Coralville, IA 52241",Coralville,-91.5687,41.6685
+ADD_091,CIT_005,"18 S Clinton St, Iowa City, IA 52240",Iowa City,-91.534424,41.660982
+ADD_092,CIT_005,"214 N Linn St, Iowa City, IA 52245",Iowa City,-91.531414,41.663849
+ADD_093,CIT_005,"330 E Market St, Iowa City, IA 52245",Iowa City,-91.531093,41.663751
+ADD_094,CIT_005,"115 East College St, Iowa City, IA 52240",Iowa City,-91.534302,41.658691
+ADD_095,CIT_005,"302 E Bloomington St, Iowa City, IA 52245",Iowa City,-91.5314,41.6648
+ADD_096,CIT_005,"127 Iowa Ave, Iowa City, IA 52240",Iowa City,-91.5341,41.661
+ADD_097,CIT_005,"503 Westbury Dr Ste 1, Iowa City, IA 52245",Iowa City,-91.482165,41.667742
+ADD_098,CIT_005,"117 N Linn St, Iowa City, IA 52245",Iowa City,-91.5318,41.6625
+ADD_099,CIT_005,"1940 Lower Muscatine Rd, Iowa City, IA 52240",Iowa City,-91.5074,41.6428
+ADD_100,CIT_005,"690 10th St, Marion, IA 52302",Marion,-91.5995,42.0331
+ADD_101,CIT_006,"49289 Us-30, Westport, OR 97016",Clatskanie,-123.368151,46.126967
+ADD_102,CIT_007,"130 Quarry Street, Unit 20, Cochrane, AB T4C 0W5",Cochrane,-114.472474,51.183934
+ADD_103,CIT_008,"1250 Broadway, Columbus, GA 31901",Columbus,-84.992671,32.470315
+ADD_104,CIT_008,"2523 Airport Thruway, Columbus, GA 31904",Columbus,-84.95591,32.519247
+ADD_105,CIT_008,"7160 moon road, Columbus, GA 31909",Columbus,-84.927047,32.555591
+ADD_106,CIT_008,"7600 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.9436,32.5577
+ADD_107,CIT_008,"1041 Broadway, Columbus, GA 31901",Columbus,-84.9936,32.4656
+ADD_108,CIT_008,"6499 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.954984,32.5382197
+ADD_109,CIT_008,"941 Veterans Parkway, Columbus, GA 31901",Columbus,-84.9876,32.4637
+ADD_110,CIT_008,"1009 Broadway, Columbus, GA 31901",Columbus,-84.9933631,32.4652417
+ADD_111,CIT_008,"1639 Bradley Park Dr, Columbus, GA 31904",Columbus,-84.96661,32.534002
+ADD_112,CIT_008,"5010 Armour Rd, Columbus, GA 31904",Columbus,-84.95367,32.513154
+ADD_113,CIT_008,"2932 Warm Springs Rd, Columbus, GA 31909",Columbus,-84.947569,32.504657
+ADD_114,CIT_008,"6100 Bradley Park Dr, Columbus, GA 31904",Columbus,-84.9607,32.5393
+ADD_115,CIT_008,"3137 Mercury Dr, Columbus, GA 31906",Columbus,-84.9464,32.4792
+ADD_116,CIT_008,"3201 Macon Rd Ste 167, Columbus, GA 31906",Columbus,-84.9427,32.481
+ADD_117,CIT_008,"6100 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.9557,32.5321
+ADD_118,CIT_008,"1039 1st Ave, Columbus, GA 31901",Columbus,-84.992093,32.466158
+ADD_119,CIT_008,"7830 - E Veterans Pkwy, Columbus, GA 31909",Columbus,-84.938698,32.560905
+ADD_120,CIT_008,"115 A 12th St, Columbus, GA 31901",Columbus,-84.991384,32.468757
+ADD_121,CIT_008,"5739 Whitesville Rd, Columbus, GA 31904",Columbus,-84.963201,32.527217
+ADD_122,CIT_008,"11269 GA Hwy 219, Hamilton, GA 31811",Hamilton,-85.0213,32.7455
+ADD_123,CIT_009,"1214 N Wall St, Calhoun, GA 30701",Calhoun,-84.9396931,34.5251331
+ADD_124,CIT_009,"555 Georgia Hwy 53, Calhoun, GA 30701",Calhoun,-84.926258,34.474635
+ADD_125,CIT_009,"349 S Wall St, Calhoun, GA 30701",Calhoun,-84.9523921,34.4972488
+ADD_126,CIT_009,"500 S. 3rd Avenue, Chatsworth, GA 30705",Chatsworth,-84.767911,34.752476
+ADD_127,CIT_009,"201 West Cuyler Street, Dalton, GA 30720",Dalton,-84.969393,34.769686
+ADD_128,CIT_009,"881 College Dr, Dalton, GA 30720",Dalton,-85.0039,34.7643
+ADD_129,CIT_009,"1321 W Walnut Ave, Dalton, GA 30720",Dalton,-84.992342,34.759551
+ADD_130,CIT_009,"1331 W Walnut Ave, Dalton, GA 30720",Dalton,-84.992924,34.759665
+ADD_131,CIT_009,"933 Market St, Dalton, GA 30720",Dalton,-84.999678,34.758645
+ADD_132,CIT_009,"316 N Hamilton St, Dalton, GA 30720",Dalton,-84.9678,34.7742
+ADD_133,CIT_009,"1303 W. Walnut Ave., Dalton, GA 30720",Dalton,-84.990925,34.759273
+ADD_134,CIT_009,"1513 W Walnut Ave Ste 6, Dalton, GA 30720",Dalton,-84.9964,34.7604
+ADD_135,CIT_009,"2603 Battlefield Pkwy, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.2229101,34.9428786
+ADD_136,CIT_009,"1014 Battlefield Parkway, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.246237,34.9528157
+ADD_137,CIT_009,"685 Battlefield Pkwy, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.2545,34.9546
+ADD_138,CIT_009,"300 W Patton St., Lafayette, GA 30728",LaFayette,-85.294955,34.705093
+ADD_139,CIT_009,"5540 Highway 41, Ringgold, GA 30736",Ringgold,-85.1321,34.9273
+ADD_140,CIT_009,"118 Remco Shops Lane, Ringgold, GA 30736",Ringgold,-85.130492,34.912109
+ADD_141,CIT_009,"7807 Nashville St, Ringgold, GA 30736",Ringgold,-85.1079396,34.9151853
+ADD_142,CIT_009,"56A Fieldstone Village Drive, Rock Spring, GA 30739",Rock Spring,-85.249727,34.851907
+ADD_143,CIT_010,"2513 53rd Avenue, Bettendorf, IA 52722",Bettendorf,-90.496986,41.574935
+ADD_144,CIT_010,"793 Middle Rd, Bettendorf, IA 52722",Bettendorf,-90.522479,41.53845
+ADD_145,CIT_010,"2561 E 53rd Ave, Bettendorf, IA 52722",Bettendorf,-90.4912446,41.5747801
+ADD_146,CIT_010,"2521 - 18th St., Bettendorf, IA 52722",Bettendorf,-90.504176,41.548746
+ADD_147,CIT_010,"1804 State St, Bettendorf, IA 52722",Bettendorf,-90.50709,41.525384
+ADD_148,CIT_010,"100 W 76th St, Davenport, IA 52806",Davenport,-90.574088,41.593892
+ADD_149,CIT_010,"589 East 53rd St, Davenport, IA 52807",Davenport,-90.565837,41.574459
+ADD_150,CIT_010,"320 W Kimberly Rd, Davenport, IA 52806",Davenport,-90.5716,41.5604
+ADD_151,CIT_010,"115 E 3rd St, Davenport, IA 52801",Davenport,-90.5737,41.5223
+ADD_152,CIT_010,"1402 W 3rd Street, IA 52802",Davenport,-90.59466452,41.52253634
+ADD_153,CIT_010,"4882 Utica Ridge Rd, Davenport, IA 52807",Davenport,-90.5154313,41.5709434
+ADD_154,CIT_010,"4811 N Brady St Ste 3, Davenport, IA 52806",Davenport,-90.5683,41.5699
+ADD_155,CIT_010,"3018 E 53rd St, Davenport, IA 52807",Davenport,-90.5321,41.5749
+ADD_156,CIT_010,"2303 E 53rd St, Davenport, IA 52807",Davenport,-90.5432,41.5747
+ADD_157,CIT_010,"208 E River Dr, Davenport, IA 52801",Davenport,-90.572418,41.520389
+ADD_158,CIT_010,"5270 Utica Ridge Rd, Davenport, IA 52807",Davenport,-90.5137,41.5745
+ADD_159,CIT_010,"3852 N Brady St, Davenport, IA 52806",Davenport,-90.5686,41.559
+ADD_160,CIT_010,"7250 Northwest Blvd, Davenport, IA 52806",Davenport,-90.6136,41.5944
+ADD_161,CIT_010,"4901 Utica Ridge Rd, Davenport, IA 52807",Davenport,-90.515175,41.570997
+ADD_162,CIT_010,"4005 E 53rd Street, Davenport, IA 52807",Davenport,-90.517,41.5747
+ADD_163,CIT_011,"1404 S Duff Ave, Ames, IA 50010",Ames,-93.610084,42.010254
+ADD_164,CIT_011,"2616 Northridge Pkwy, Ames, IA 50010",Ames,-93.643094,42.048779
+ADD_165,CIT_011,"4345 Hickman Rd, Des Moines, IA 50310",Beaverdale,-93.677638,41.614965
+ADD_166,CIT_011,"8801 University Ave, Clive, IA 50325",Clive,-93.739573,41.600564
+ADD_167,CIT_011,"4100 University Avenue, West Des Moines, IA 50266",Clive,-93.760027,41.60028
+ADD_168,CIT_011,"900 Mulberry Street, Des Moines, IA 50309",Downtown,-93.627896,41.583309
+ADD_169,CIT_011,"1007 Locust St, Des Moines, IA 50309",Downtown,-93.6300803,41.5857431
+ADD_170,CIT_011,"223 4th Street, Des Moines, IA 50309",Downtown,-93.621631,41.585465
+ADD_171,CIT_011,"1511 High Street, Des Moines, IA 50309",Downtown,-93.637401,41.587219
+ADD_172,CIT_011,"309 Court Ave, Des Moines, IA 50309",Downtown,-93.620726,41.58536
+ADD_173,CIT_011,"210 10th Street, Des Moines, IA 50309",Downtown,-93.629436,41.584027
+ADD_174,CIT_011,"512 E Grand Ave, Des Moines, IA 50309",East Village,-93.611366,41.590819
+ADD_175,CIT_011,"300 E. Grand Ave., Des Moines, IA 50309",East Village,-93.61474,41.590106
+ADD_176,CIT_011,"2200 Hubbell Ave, Des Moines, IA 50317",Fairground,-93.577383,41.601415
+ADD_177,CIT_011,"4230 Fleur Dr, Des Moines, IA 50321",Greater South Side,-93.645245,41.545869
+ADD_178,CIT_011,"5340 Merle Hay Road, Johnston, IA 50131",Johnston,-93.6976773,41.6714654
+ADD_179,CIT_011,"3100 Forest Ave, Des Moines, IA 50311",Kingman Place Historic District,-93.659797,41.603901
+ADD_180,CIT_011,"11151 Hickman Road, Urbandale, IA 50322",Urbandale,-93.772033,41.615083
+ADD_181,CIT_011,"1410 22nd St., West Des Moines, IA 50266",West Des Moines,-93.73624,41.594039
+ADD_182,CIT_011,"2900 University Ave, West Des Moines, IA 50266",West Des Moines,-93.7441981,41.5991771
+ADD_183,CIT_012,"1220 Iowa St, Dubuque, IA 52001",Dubuque,-90.667668,42.504759
+ADD_184,CIT_012,"1630 E 16th St, Dubuque, IA 52001",Dubuque,-90.6499328,42.5124724
+ADD_185,CIT_012,"1091 Main St, Dubuque, IA 52001",Dubuque,-90.6684746,42.5032004
+ADD_186,CIT_012,"350 Bell St, Dubuque, IA 52001",Dubuque,-90.658609,42.496464
+ADD_187,CIT_012,"180 Main Street, Dubuque, IA 52001",Dubuque,-90.664029,42.495689
+ADD_188,CIT_012,"3100 Dodge St., Dubuque, IA 52003",Dubuque,-90.715247,42.492018
+ADD_189,CIT_012,"2515 NW Arterial, Dubuque, IA 52002",Dubuque,-90.740213,42.49092
+ADD_190,CIT_012,"855 Century Dr, Dubuque, IA 52002",Dubuque,-90.7264,42.4955
+ADD_191,CIT_012,"1795 Greyhound Park Rd, Dubuque, IA 52001",Dubuque,-90.645294,42.516621
+ADD_192,CIT_012,"3187 University Ave, Dubuque, IA 52001",Dubuque,-90.712084,42.492963
+ADD_193,CIT_012,"1097 Jackson St, Dubuque, IA 52001",Dubuque,-90.6646,42.5043
+ADD_194,CIT_012,"1072 Main St, Dubuque, IA 52001",Dubuque,-90.668164,42.503075
+ADD_195,CIT_012,"2700 Dodge St, Dubuque, IA 52003",Dubuque,-90.7055,42.4916
+ADD_196,CIT_012,"700 Locust St, Dubuque, IA 52001",Dubuque,-90.6677349,42.500191
+ADD_197,CIT_012,"1298 Main St, Dubuque, IA 52001",Dubuque,-90.6691,42.5048
+ADD_198,CIT_012,"378 Main St, Dubuque, IA 52001",Dubuque,-90.6651,42.4974
+ADD_199,CIT_012,"290 Locust St, Dubuque, IA 52001",Dubuque,-90.6658,42.4963
+ADD_200,CIT_012,"401 Central Ave, Dubuque, IA 52001",Dubuque,-90.663686,42.4982789
+ADD_201,CIT_012,"51 W 32nd Street, Dubuque, IA 52001",Dubuque,-90.684882,42.527556
+ADD_202,CIT_012,"301 Bell Street, Dubuque, IA 52001",Dubuque,-90.658988,42.496378
+ADD_203,CIT_013,"135 W. Main Street, Fernley, NV 89408",Fernley,-119.252694,39.607515
+ADD_204,CIT_014,"6323 Grand Hickory Dr Ste 200A, Braselton, GA 30517",Braselton,-83.8461,34.0901
+ADD_205,CIT_014,"515 Grant Street, Clarkesville, GA 30523",Clarkesville,-83.520693,34.61802
+ADD_206,CIT_014,"90 Public Sq N, Dahlonega, GA 30533",Dahlonega,-83.985353,34.532973
+ADD_207,CIT_014,"51 W Main St, Dahlonega, GA 30533",Dahlonega,-83.9858,34.5318
+ADD_208,CIT_014,"59 E Main St, Dahlonega, GA 30533",Dahlonega,-83.983939,34.533626
+ADD_209,CIT_014,"617 North Grove Street, Dahlonega, GA 30533",Dahlonega,-83.989317,34.541044
+ADD_210,CIT_014,"87 N. Chestatee St., Dahlonega, GA 30533",Dahlonega,-83.986119,34.533198
+ADD_211,CIT_014,"6330 Mitchell Street, Flowery Branch, GA 30542",Flowery Branch,-83.938024,34.183573
+ADD_212,CIT_014,"5510 Church Street, Flowery Branch, GA 30542",Flowery Branch,-83.926217,34.185707
+ADD_213,CIT_014,"5545 Atlanta Highway, Flowery Branch, GA 30542",Flowery Branch,-83.927794,34.180043
+ADD_214,CIT_014,"227 Atlanta Highway Suite 900, Gainesville, GA 30501",Gainesville,-83.838457,34.285102
+ADD_215,CIT_014,"975 Dawsonville Hwy, Gainesville, GA 30501",Gainesville,-83.857993,34.300182
+ADD_216,CIT_014,"3205 Atlanta Hwy, Atlanta Highway, Gainesville, GA, Gainesville, GA 30507",Gainesville,-83.860098,34.222755
+ADD_217,CIT_014,"317 Spring St SE, Gainesville, GA 30501",Gainesville,-83.824023,34.300567
+ADD_218,CIT_014,"1043 Riverside Terrace, Gainesville, GA 30501",Gainesville,-83.8272,34.3166
+ADD_219,CIT_014,"118 Bradford St NE, Gainesville, GA 30501",Gainesville,-83.82686,34.300332
+ADD_220,CIT_014,"64 Munich Strasse, Helen, GA 30545",Helen,-83.727741,34.701594
+ADD_221,CIT_014,"8758 N Main St, Helen, GA 30545",Helen,-83.7345,34.7024
+ADD_222,CIT_014,"8590 N Main St Ste B, Helen, GA 30545",Helen,-83.7334,34.7021
+ADD_223,CIT_014,"7275 S Main St., Helen, GA 30545",Helen,-83.713498,34.691208
+ADD_224,CIT_015,"109 S F St, Lakeview, OR 97630",Lakeview,-120.3458,42.1885
+ADD_225,CIT_016,"129 N 10th St, Lincoln, NE 68508",Haymarket,-96.7072,40.8143
+ADD_226,CIT_017,"402 Ga. Highway 247, Bonaire, GA 31005",Bonaire,-83.594494,32.567741
+ADD_227,CIT_017,"2395 Ingleside Ave, Macon, GA 31204",Macon,-83.657061,32.853896
+ADD_228,CIT_017,"3040 Vineville Ave, Macon, GA 31204",Macon,-83.6737,32.8496
+ADD_229,CIT_017,"3086 Riverside Dr, Macon, GA 31210",Macon,-83.6766,32.8899
+ADD_230,CIT_017,"543 Cherry St, Macon, GA 31201",Macon,-83.6279,32.8361
+ADD_231,CIT_017,"543 Cherry St, Macon, GA 31201",Macon,-83.627979,32.83641
+ADD_232,CIT_017,"5080 Riverside Dr, Macon, GA 31210",Macon,-83.713978,32.929278
+ADD_233,CIT_017,"562 Mulberry St, Macon, GA 31201",Macon,-83.6276,32.8375
+ADD_234,CIT_017,"587 Cherry St, Macon, GA 31201",Macon,-83.628703,32.83654
+ADD_235,CIT_017,"201 North Macon St., Macon, GA 31210",Macon,-83.787993,32.928495
+ADD_236,CIT_017,"121 Tom Hill Sr Blvd, Macon, GA 31210",Macon,-83.6873,32.901
+ADD_237,CIT_017,"1289 S Houston Lake Rd, Warner Robins, GA 31088",Warner Robins,-83.662421,32.556873
+ADD_238,CIT_017,"2507 Moody Rd, Warner Robins, GA 31088",Warner Robins,-83.624,32.5786
+ADD_239,CIT_017,"2624 Watson Blvd Ste D, Warner Robins, GA 31093",Warner Robins,-83.6665,32.6184
+ADD_240,CIT_017,"710 Lake Joy Road, Warner Robins, GA 31088",Warner Robins,-83.691044,32.552684
+ADD_241,CIT_017,"1224 Russell Pkwy, Warner Robins, GA 31088",Warner Robins,-83.64935,32.594666
+ADD_242,CIT_017,"1801 Watson Blvd, Warner Robins, GA 31093",Warner Robins,-83.636618,32.6176839
+ADD_243,CIT_017,"102 S Armed Forces Boulevard, Warner Robins, GA 31088",Warner Robins,-83.600201,32.619321
+ADD_244,CIT_017,"1806 Russell Parkway, Warner Robins, GA 31088",Warner Robins,-83.665557,32.593264
+ADD_245,CIT_017,"4086 Watson Blvd, Warner Robins, GA 31093",Warner Robins,-83.7184,32.6147
+ADD_246,CIT_018,"21053 State Hwy M28, Mc Millan, MI 49853",Mc Millan,-85.7363,46.3718
+ADD_247,CIT_019,"109 N Broadway Ave, Miller, SD 57362",Miller,-98.9891,44.5158
+ADD_248,CIT_020,"619 4th Ave, Monroe, WI 53566",Monroe,-89.653487,42.606306
+ADD_249,CIT_021,"Ojo Caliente Mineral Springs Resort And Spa 50 Los Banos Rd, Ojo Caliente, NM 87549",Ojo Caliente,-106.057666,36.313638
+ADD_250,CIT_022,"125 West Church Street, Orlando, FL 32801",Church Street District,-81.381077,28.540432
+ADD_251,CIT_022,"1600 Seven Seas Drive, Lake Buena Vista, FL 32830",Disney World Area,-81.585226,28.405437
+ADD_252,CIT_022,"1750 E Buena Vista Drive, Lake Buena Vista, FL 32830",Disney: Downtown Disney,-81.514608,28.372858
+ADD_253,CIT_022,"1640 E Buena Vista Drive, Lake Buena Vista, FL 32830",Disney: Downtown Disney,-81.517725,28.371338
+ADD_254,CIT_022,"8625 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.469986,28.440344
+ADD_255,CIT_022,"5259 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.4510725,28.4676808
+ADD_256,CIT_022,"8849 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.471526,28.437065
+ADD_257,CIT_022,"9101 International Drive,Orlando, FL 32819",I-Drive/Universal,-81.471447,28.433235
+ADD_258,CIT_022,"1103 N Mills Avenue, Orlando, FL 32803",Mills 50,-81.364347,28.560505
+ADD_259,CIT_022,"932 North Mills Avenue, Orlando, FL 32803",Mills 50,-81.364547,28.557845
+ADD_260,CIT_022,"7700 West Sand Lake Road, Orlando, FL 32819",Restaurant Row,-81.487978,28.448175
+ADD_261,CIT_022,"205 East 1st Street, Sanford, FL 32771",Sanford,-81.266871,28.811653
+ADD_262,CIT_022,"67 North Bumby Avenue, Orlando, FL 32803",The Milk District,-81.351467,28.543571
+ADD_263,CIT_022,"1236 Hempel Avenue,Gotha, FL 34786",Windermere,-81.522987,28.527592
+ADD_264,CIT_022,"2203 Aloma Avenue, Winter Park, FL 32792",Winter Park,-81.322631,28.601088
+ADD_265,CIT_022,"610 W Morse Boulevard, Winter Park, FL 32789",Winter Park,-81.357219,28.597366
+ADD_266,CIT_022,"108 S Park Ave, Winter Park, FL 32789",Winter Park,-81.3508344,28.5976271
+ADD_267,CIT_022,"601-B South New York Avenue, Winter Park, FL 32789",Winter Park,-81.352921,28.592857
+ADD_268,CIT_022,"215 South Orlando Avenue, Winter Park, FL 32789",Winter Park,-81.36526,28.596682
+ADD_269,CIT_022,"565 W Fairbanks Avenue, Winter Park, FL 32789",Winter Park,-81.356024,28.593297
+ADD_270,CIT_023,"8725 Ortega Park Dr, Navarre, FL 32566",Navarre,-86.8573393,30.4025979
+ADD_271,CIT_023,"600 E Gregory Street, Pensacola, FL 32502",Pensacola,-87.2027,30.4179
+ADD_272,CIT_023,"3001 E Cervantes St, Pensacola, FL 32503",Pensacola,-87.1819,30.4251
+ADD_273,CIT_023,"7130 N Davis Hwy, Pensacola, FL 32504",Pensacola,-87.2216,30.4982
+ADD_274,CIT_023,"311 N 9th Avenue, Pensacola, FL 32502",Pensacola,-87.205855,30.417318
+ADD_275,CIT_023,"997 South Palafox, Pensacola, FL 32502",Pensacola,-87.213274,30.403034
+ADD_276,CIT_023,"102 S Palafox Pl, Pensacola, FL",Pensacola,-87.2150874,30.4116106
+ADD_277,CIT_023,"3425 N 12th Ave, Pensacola, FL 32503",Pensacola,-87.2080932,30.4473322
+ADD_278,CIT_023,"300 S Alcaniz Street, Pensacola, FL 32502",Pensacola,-87.2092,30.4101
+ADD_279,CIT_023,"27 South Palafox Pl, Pensacola, FL 32501",Pensacola,-87.2153054,30.411878
+ADD_280,CIT_023,"5555 N Davis Hwy Ste I, Pensacola, FL 32503",Pensacola,-87.2252,30.4767
+ADD_281,CIT_023,"600 S Barracks St, Pensacola, FL 32502",Pensacola,-87.211082,30.407358
+ADD_282,CIT_023,"4801 N 9th Ave, Pensacola, FL 32503",Pensacola,-87.214,30.4692
+ADD_283,CIT_023,"800 Quietwater Beach Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.143,30.3359
+ADD_284,CIT_023,"400 Quietwater Beach Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.142602,30.335521
+ADD_285,CIT_023,"45 A Via De Luna Dr, Pensacola Beach, FL 32561",Pensacola Beach,-87.132932,30.334776
+ADD_286,CIT_023,"1010 Fort Pickens Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.164376,30.327864
+ADD_287,CIT_023,"400 Pensacola Beach Boulevard, Pensacola Beach, FL 32561",Pensacola Beach,-87.149178,30.34262
+ADD_288,CIT_023,"13310 Merilla Street, Pensacola, FL 32507",Perdido Key,-87.4218962,30.3199824
+ADD_289,CIT_023,"13486 Perdido Key Dr, Pensacola, FL 32507",Perdido Key,-87.427707,30.308468
+ADD_290,CIT_024,"302 NE Main St, Blackfoot, ID 83221",Blackfoot,-112.3415,43.1903
+ADD_291,CIT_024,"560 Bullock Street, Pocatello, ID 83202",Chubbuck,-112.461326,42.910518
+ADD_292,CIT_024,"695 E Main St, Lava Hot Springs, ID 83246",Lava Hot Springs,-112.0132,42.62
+ADD_293,CIT_024,"11 E Main St, Lava Hot Springs, ID 83246",Lava Hot Springs,-112.0127,42.6192
+ADD_294,CIT_024,"626 E Lewis St, Pocatello, ID 83201",Pocatello,-112.4423,42.8661
+ADD_295,CIT_024,"917 Yellowstone Avenue, Pocatello, ID 83201",Pocatello,-112.4516,42.8919
+ADD_296,CIT_024,"1000 Pocatello Creek Rd Ste W2, Pocatello, ID 83201",Pocatello,-112.441,42.8928
+ADD_297,CIT_024,"559 S 5TH Ave, Pocatello, ID 83201",Pocatello,-112.4397,42.8631
+ADD_298,CIT_024,"905 S 5th Ave, Pocatello, ID 83201",Pocatello,-112.4365,42.8604
+ADD_299,CIT_024,"314 N Main St, Pocatello, ID 83204",Pocatello,-112.4524,42.8639
+ADD_300,CIT_024,"1800 Garrett Way, Pocatello, ID 83201",Pocatello,-112.459988,42.878077
+ADD_301,CIT_024,"615 South 1st Avenue, ID 83201",Pocatello,-112.443213,42.860024
+ADD_302,CIT_024,"1400 Bench Rd, Pocatello, ID 83201",Pocatello,-112.432,42.9012
+ADD_303,CIT_024,"961 Hiline Rd, Pocatello, ID 83201",Pocatello,-112.4433,42.8942
+ADD_304,CIT_024,"415 Yellowstone Ave, Pocatello, ID 83201",Pocatello,-112.452013,42.88245
+ADD_305,CIT_024,"330 N Main Street, Pocatello, ID 83204",Pocatello,-112.45253,42.863969
+ADD_306,CIT_024,"140 S. Main, Pocatello, ID 83204",Pocatello,-112.450106,42.861871
+ADD_307,CIT_024,"815 S 1st Street, Pocatello, ID 83201",Pocatello,-112.4413856,42.8585987
+ADD_308,CIT_024,"303 E Alameda Road, ID 83201",Pocatello,-112.44853,42.891174
+ADD_309,CIT_024,"123 Jefferson Ave, Pocatello, ID 83201",Pocatello,-112.4419,42.8774
+ADD_310,CIT_025,"1020 Barrett Lake Rd, Dulzura, CA 91917",Potrero,-116.704731,32.613431
+ADD_311,CIT_026,"258 Nassau St, Princeton, NJ 08542",Princeton,-74.651139,40.352385
+ADD_312,CIT_027,"56-505 Kamehameha Hwy, Kahuku, HI 96731",Kahuku,-157.948486,21.677078
+ADD_313,CIT_027,"75-5629 Kuakini Highway, Kailua Kona, HI 96740",Kailua Kona,-155.997362,19.642752
+ADD_314,CIT_027,"933 Kapahulu Ave, Honolulu, HI 96816",Kaimuki,-157.813432,21.284586
+ADD_315,CIT_027,"1279 S Kihei Road, Kihei, HI 96753",Kihei,-156.455284,20.748838
+ADD_316,CIT_027,"1945 S Kihei Road, Kihei, HI 96753",Kihei,-156.451847,20.731487
+ADD_317,CIT_027,"10 Wailea Gateway Place, Unit B-201 Kihei, Hawaii, HI 96753",Kihei,-156.4309473,20.6883746
+ADD_318,CIT_027,"1881 S Kihei Rd, Kihei, HI 96753",Kihei,-156.452556,20.733554
+ADD_319,CIT_027,"286 Kupuohi St, Lahaina, HI 96761",Lahaina,-156.674835,20.885226
+ADD_320,CIT_027,"1285 Front St, Lahaina, HI 96761",Lahaina,-156.684967,20.886564
+ADD_321,CIT_027,"5315 Lower Honoapiilani Rd, Lahaina, HI 96761",Lahaina,-156.667037,20.992316
+ADD_322,CIT_027,"2435 Kaanapali Pkwy, Lahaina, HI 96761",Lahaina,-156.693821,20.921347
+ADD_323,CIT_027,"845 Front St, Lahaina, HI 96761",Lahaina,-156.680666,20.876127
+ADD_324,CIT_027,"799 Poho Pl, Paia, HI 96779",Paia,-156.366445,20.929622
+ADD_325,CIT_027,"2310 Kuhio Avenue, Honolulu, HI 96815",Waikiki,-157.825979,21.279476
+ADD_326,CIT_027,"226 Lewers St, Honolulu, HI 96815",Waikiki,-157.8312476,21.2794952
+ADD_327,CIT_027,"2586 Kalakaua Ave, Honolulu, HI 96815",Waikiki,-157.822716,21.271826
+ADD_328,CIT_027,"2335 Kalakaua Ave, Honolulu, HI 96815",Waikiki,-157.827196,21.277583
+ADD_329,CIT_027,"343 Saratoga Road, Honolulu, HI 96815",Waikiki,-157.831538,21.280663
+ADD_330,CIT_027,"226 Lewers St, Honolulu, HI 96815",Waikiki,-157.831176,21.279154
+ADD_331,CIT_027,"1860 Ala Moana Blvd, Honolulu, HI 96815",Waikiki,-157.836031,21.285396
+ADD_332,CIT_028,"102 W Congress St, Savannah, GA 31401",Savannah,-81.0954,32.0804
+ADD_333,CIT_028,"2430 Habersham Street, Savannah, GA 31401",Savannah,-81.096647,32.052858
+ADD_334,CIT_028,"212 E Broughton Street, Savannah, GA 31401",Savannah,-81.0894,32.0785
+ADD_335,CIT_028,"107 W Jones St, Savannah, GA 31401",Savannah,-81.0955,32.0727
+ADD_336,CIT_028,"108 E York Street, Savannah, GA 31401",Savannah,-81.0911,32.0775
+ADD_337,CIT_028,"21 W Bay St, Savannah, GA 31401",Savannah,-81.0916,32.0809
+ADD_338,CIT_028,"20 E Broad St, Savannah, GA 31401",Savannah,-81.0844,32.0782
+ADD_339,CIT_028,"325 E Bay St, Savannah, GA 31401",Savannah,-81.0875,32.0798
+ADD_340,CIT_028,"301 W Jones St, Savannah, GA 31401",Savannah,-81.0979,32.0735
+ADD_341,CIT_028,"39 Barnard St, Savannah, GA 31401",Savannah,-81.0941,32.0801
+ADD_342,CIT_028,"28 Drayton St, Savannah, GA 31401",Savannah,-81.0905213,32.0794767
+ADD_343,CIT_028,"115 E River St, Savannah, GA 31401",Savannah,-81.0897,32.0812
+ADD_344,CIT_028,"122 E. Liberty, Savannah, GA 31401",Savannah,-81.091482,32.074495
+ADD_345,CIT_028,"42 MLK Jr. Blvd, Savannah, GA 31401",Savannah,-81.097051,32.080742
+ADD_346,CIT_028,"102 West Bay St., Savannah, GA 31401",Savannah,-81.092484,32.081394
+ADD_347,CIT_028,"12 W Liberty St, Savannah, GA 31401",Savannah,-81.0939,32.0747
+ADD_348,CIT_028,"23 Abercorn St, Savannah, GA 31401",Savannah,-81.0897,32.0798
+ADD_349,CIT_028,"26 E Bay St, Savannah, GA 31401",Savannah,-81.0908,32.0809
+ADD_350,CIT_028,"40 Estill Hammock Rd, Tybee Island, GA 31328",Tybee Island,-80.865909,32.011689
+ADD_351,CIT_028,"1311 Butler Ave, Tybee Island, GA 31328",Tybee Island,-80.848297,31.99581
+ADD_352,CIT_029,"224 4th Ave NE, Le Mars, IA 51031",Le Mars,-96.1608,42.7956
+ADD_353,CIT_029,"2320 Transit Ave, Sioux City, IA 51106",Sioux City,-96.379,42.4765
+ADD_354,CIT_029,"800 W 7th St, Sioux City, IA 51103",Sioux City,-96.4173,42.5026
+ADD_355,CIT_029,"201 Pierce St, Sioux City, IA 51101",Sioux City,-96.4051,42.492
+ADD_356,CIT_029,"513 6th St, Sioux City, IA 51101",Sioux City,-96.4046,42.4965
+ADD_357,CIT_029,"4229 S Lakeport St, Sioux City, IA 51106",Sioux City,-96.3479,42.4391
+ADD_358,CIT_029,"3523 Singing Hills Blvd, Sioux City, IA 51106",Sioux City,-96.362,42.4375
+ADD_359,CIT_029,"1417 Morningside Ave, Sioux City, IA 51106",Sioux City,-96.3596,42.4764
+ADD_360,CIT_029,"800 Pierce St, Sioux City, IA 51101",Sioux City,-96.4048,42.4985
+ADD_361,CIT_029,"2401 5th St, Sioux City, IA 51101",Sioux City,-96.378049,42.495534
+ADD_362,CIT_029,"2622 Leech Ave, Sioux City, IA 51106",Sioux City,-96.3755,42.4876
+ADD_363,CIT_029,"301 Douglas St, Sioux City, IA 51101",Sioux City,-96.4063904,42.4930681
+ADD_364,CIT_029,"2945 Hamilton Blvd, Sioux City, IA 51104",Sioux City,-96.418,42.5212
+ADD_365,CIT_029,"3138 Singing Hills Blvd, Sioux City, IA 51106",Sioux City,-96.3691,42.4351
+ADD_366,CIT_029,"1107 4th St, Sioux City, IA 51101",Sioux City,-96.3959487,42.4944454
+ADD_367,CIT_029,"4567 Southern Hills Drive, Sioux City, IA 51106",Sioux City,-96.349464,42.440592
+ADD_368,CIT_029,"515 W 7th St, Sioux City, IA 51103",Sioux City,-96.4136,42.5011
+ADD_369,CIT_029,"523 W 19th St, Sioux City, IA 51103",Sioux City,-96.4204,42.5106
+ADD_370,CIT_029,"416 Jackson St., Sioux City, IA 51101",Sioux City,-96.4019631,42.4949153
+ADD_371,CIT_029,"385 E 4th St, South Sioux City, IA 68776",South Sioux City,-96.4092028,42.485608
+ADD_372,CIT_030,"1800 Gulf To Bay Blvd, Clearwater, FL 33765",Clearwater,-82.762624,27.96076
+ADD_373,CIT_030,"128 3rd St S, St Petersburg, FL 33701",Downtown St Petersburg,-82.636924,27.770026
+ADD_374,CIT_030,"204 Beach Drive Northeast, St Petersburg, FL 33701",Downtown St Petersburg,-82.6329663,27.7737426
+ADD_375,CIT_030,"10 Beach Dr, St Petersburg, FL 33701",Downtown St Petersburg,-82.6333294,27.7711464
+ADD_376,CIT_030,"332 Beach Dr NE, St Petersburg, FL 33701",Downtown St Petersburg,-82.632174,27.775462
+ADD_377,CIT_030,"1208 S Howard Ave, Tampa, FL 33606",Hyde Park,-82.482962,27.931516
+ADD_378,CIT_030,"901 W. Platt St., Tampa, FL 33606",Hyde Park,-82.46887,27.941942
+ADD_379,CIT_030,"912 W Kennedy Blvd, Tampa, FL 33606",Hyde Park,-82.469306,27.944244
+ADD_380,CIT_030,"2500 W Azeele St, Tampa, FL 33609",Hyde Park,-82.4852372,27.9410382
+ADD_381,CIT_030,"901 S Howard Avenue, Tampa, FL 33606",Hyde Park,-82.483124,27.935039
+ADD_382,CIT_030,"19325 Gulf Blvd, Indian Shores, FL 33785",Indian Rocks/Indian Shores,-82.843253,27.848357
+ADD_383,CIT_030,"2909 22nd Ave N, St Petersburg, FL 33713",Kenwood,-82.673621,27.792047
+ADD_384,CIT_030,"16699 Gulf Blvd, North Redington Beach, FL 33708",Madeira Beach/Redington Beach,-82.820856,27.816086
+ADD_385,CIT_030,"14929 Bruce B Downs Blvd, Tampa, FL 33612",New Tampa,-82.41294,28.082909
+ADD_386,CIT_030,"4912 4th St N, St Petersburg, FL 33703",Northeast St Petersburg,-82.638843,27.816848
+ADD_387,CIT_030,"2616 S Macdill Avenue, Tampa, FL 33629",Palma Ceia,-82.4932815,27.9219315
+ADD_388,CIT_030,"5119 N Nebraska Ave, Tampa, FL 33603",Seminole Heights,-82.451041,27.993645
+ADD_389,CIT_030,"913 E Hillsborough Ave, Tampa, FL 33604",Seminole Heights,-82.449897,27.995964
+ADD_390,CIT_030,"5137 N. Florida Ave., Tampa, FL 33603",Seminole Heights,-82.459339,27.99384
+ADD_391,CIT_030,"2117 E 7th Ave, Tampa, FL 33605",Ybor City,-82.4351499,27.959884
+ADD_392,CIT_031,"1553 Baytree Rd., Valdosta, GA 31602",Valdosta,-83.319123,30.846819
+ADD_393,CIT_031,"1713 Gornto Rd, Valdosta, GA 31601",Valdosta,-83.3247,30.8426
+ADD_394,CIT_031,"306 N Patterson St, Valdosta, GA 31601",Valdosta,-83.2799,30.8332
+ADD_395,CIT_031,"2101 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.3170843,30.8164364
+ADD_396,CIT_031,"1715 C Norman Drive, Valdosta, GA 31601",Valdosta,-83.318554,30.841892
+ADD_397,CIT_031,"125 N Patterson St, Valdosta, GA 31601",Valdosta,-83.279,30.8308
+ADD_398,CIT_031,"116 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.2792,30.8308
+ADD_399,CIT_031,"1700 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.3085736,30.8223548
+ADD_400,CIT_031,"270 Norman Drive, Valdosta, GA 31601",Valdosta,-83.316402,30.824691
+ADD_401,CIT_031,"1600 N. Ashley St., Valdosta, GA 31602",Valdosta,-83.28078,30.850888
+ADD_402,CIT_031,"3338-B Country Club Rd, GA 31605",Valdosta,-83.29633,30.880146
+ADD_403,CIT_031,"105 E Ann St, Valdosta, GA 31601",Valdosta,-83.2851,30.8433
+ADD_404,CIT_031,"1300 N. Ashley St., Valdosta, GA 31601",Valdosta,-83.281,30.8465
+ADD_405,CIT_031,"1337 Baytree Rd, Valdosta, GA 31602",Valdosta,-83.310343,30.846763
+ADD_406,CIT_031,"4143 N Valdosta Rd, Valdosta, GA 31602",Valdosta,-83.3283,30.8971
+ADD_407,CIT_031,"1709 Norman Dr, Valdosta, GA 31601",Valdosta,-83.318958,30.841547
+ADD_408,CIT_031,"2910 N Ashley St Ste E, Valdosta, GA 31602",Valdosta,-83.289338,30.87114
+ADD_409,CIT_031,"2801 N Ashley St, Valdosta, GA 31602",Valdosta,-83.2868,30.868
+ADD_410,CIT_031,"132 N. Patterson St, Valdosta, GA 31601",Valdosta,-83.2796,30.8316
+ADD_411,CIT_031,"4228 N Valdosta Rd, Valdosta, GA 31602",Valdosta,-83.332796,30.897087
+ADD_412,CIT_032,"919 Bridge St, Vernonia, OR 97064",Vernonia,-123.1954368,45.858667
+ADD_413,CIT_033,"911 W 23rd St, Cedar Falls, IA 50613",Cedar Falls,-92.456343,42.516908
+ADD_414,CIT_033,"1111 Center St, Cedar Falls, IA 50613",Cedar Falls,-92.4507,42.5464
+ADD_415,CIT_033,"1310 W 1st St, Cedar Falls, IA 50613",Cedar Falls,-92.4599,42.5377
+ADD_416,CIT_033,"6306 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.4322,42.5133
+ADD_417,CIT_033,"6301 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.432177,42.512646
+ADD_418,CIT_033,"1724 West 31st Street, Cedar Falls, IA 50613",Cedar Falls,-92.466597,42.509472
+ADD_419,CIT_033,"222 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4453,42.5366
+ADD_420,CIT_033,"205 E 18th St, Cedar Falls, IA 50613",Cedar Falls,-92.444,42.5219
+ADD_421,CIT_033,"5719 university avenue, Cedar Falls, IA 50613",Cedar Falls,-92.426215,42.51259
+ADD_422,CIT_033,"315 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4457417,42.5354081
+ADD_423,CIT_033,"119 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4457,42.5375
+ADD_424,CIT_033,"5715 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.4291,42.5127
+ADD_425,CIT_033,"407 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.445723,42.53489
+ADD_426,CIT_033,"900 La Porte Road, Waterloo, IA 50702",Waterloo,-92.323032,42.477281
+ADD_427,CIT_033,"622 Commercial Street, Waterloo, IA 50701",Waterloo,-92.339721,42.494908
+ADD_428,CIT_033,"106 Brookridge Dr, IA 50702",Waterloo,-92.356066,42.458979
+ADD_429,CIT_033,"2401 Falls Avenue, IA 50701",Waterloo,-92.3772,42.499705
+ADD_430,CIT_033,"228 E 4th St., Waterloo, IA 50703",Waterloo,-92.335523,42.4984
+ADD_431,CIT_033,"624 Sycamore Street, Waterloo, IA 50703",Waterloo,-92.335769,42.497919
+ADD_432,CIT_033,"1931 Sears Street, Waterloo, IA 50702",Waterloo,-92.3234,42.46558
+ADD_433,CIT_034,"322 American Way, Weirton, WV 26062",Weirton,-80.529488,40.396043
+ADD_434,CIT_035,"196 Bayfront Loop, Winchester Bay, OR 97467",Winchester Bay,-124.175346,43.678998

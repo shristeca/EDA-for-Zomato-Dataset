@@ -1,0 +1,6 @@
+Payment_ID,Accepted_Payment_Methods,Accepted_Currency
+Pay_001,Cash/Paytm/Debit Card/Credit Card/Travel Card,Dollar($)
+Pay_002,Cash/Debit Card/Credit Card,Dollar($)
+Pay_003,Only Cash,Dollar($)
+Pay_004,Cash/Paytm,Dollar($)
+Pay_005,Only Paytm,Dollar($)

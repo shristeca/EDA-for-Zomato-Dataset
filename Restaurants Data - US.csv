@@ -1,0 +1,435 @@
+Restaurant ID,Restaurant Name,Cuisines,City_ID,Address_ID,Average Cost for two,Has Table booking,Has Online delivery,Payment_ID,Rating_ID,Aggregate rating,Votes,Date_Analyzed
+17284404,Austin's BBQ and Oyster Bar,"BBQ, Burger, Seafood",CIT_001,ADD_001,25,No,Yes,Pay_005,RAT_003,3.3,35,28-12-2018
+17284203,BJ's Country Buffet,"American, BBQ",CIT_001,ADD_002,10,No,No,Pay_003,RAT_003,3.3,25,28-12-2018
+17284105,Cookie Shoppe,,CIT_001,ADD_003,0,No,No,Pay_003,RAT_003,3.4,34,28-12-2018
+17284302,El Vaquero Mexican Restaurant,Mexican,CIT_001,ADD_004,0,No,No,Pay_003,RAT_003,3.4,45,28-12-2018
+17284397,Elements Coffee Co - Northwest,"Coffee and Tea, Sandwich",CIT_001,ADD_005,10,No,No,Pay_003,RAT_003,3.4,26,28-12-2018
+17284211,Pearly's Famous Country Cookng,,CIT_001,ADD_006,0,No,No,Pay_003,RAT_003,3.4,36,28-12-2018
+17284094,Chick-fil-A,Fast Food,CIT_001,ADD_007,10,No,No,Pay_003,RAT_004,3.5,67,28-12-2018
+17284409,Guang Zhou Chinese Restaurant,"Asian, Chinese, Vegetarian",CIT_001,ADD_008,10,No,No,Pay_003,RAT_004,3.9,141,28-12-2018
+17284139,Harvest Moon,"Pizza, Bar Food, Sandwich",CIT_001,ADD_009,25,No,Yes,Pay_005,RAT_004,3.7,147,28-12-2018
+17284403,Henry Campbell's Steakhouse,"Steak, Tapas, Bar Food",CIT_001,ADD_010,70,Yes,No,Pay_001,RAT_004,3.5,51,28-12-2018
+17284145,Hong Kong Cafe,"Chinese, Seafood, Vegetarian",CIT_001,ADD_011,25,No,Yes,Pay_005,RAT_004,3.6,88,28-12-2018
+17284150,House of China Restaurant II,Chinese,CIT_001,ADD_012,10,No,No,Pay_003,RAT_004,3.8,153,28-12-2018
+17284158,Jimmie's Hot Dogs,,CIT_001,ADD_013,10,No,No,Pay_003,RAT_004,3.9,160,28-12-2018
+17284175,Locos Grill & Pub,"American, Burger, Sandwich",CIT_001,ADD_014,25,No,Yes,Pay_005,RAT_004,3.5,57,28-12-2018
+17284179,Longhorn Steakhouse,"American, Steak",CIT_001,ADD_015,25,No,Yes,Pay_005,RAT_004,3.5,58,28-12-2018
+17284197,Mikata Japanese Steakhouse,"Japanese, Steak, Sushi",CIT_001,ADD_016,40,Yes,Yes,Pay_004,RAT_004,3.6,115,28-12-2018
+17284241,Shogun Japanese Steak House,"Japanese, Steak, Sushi",CIT_001,ADD_017,40,Yes,Yes,Pay_004,RAT_004,3.5,51,28-12-2018
+17284390,The Catch Seafood Room & Oyster Bar,"Seafood, Tapas, Bar Food",CIT_001,ADD_018,40,Yes,Yes,Pay_004,RAT_004,3.8,250,28-12-2018
+17284279,Villa Gargano,"Italian, Pizza",CIT_001,ADD_019,10,No,No,Pay_003,RAT_004,3.7,117,28-12-2018
+17284364,3 Squares Diner,"American, Breakfast, Diner",CIT_001,ADD_020,10,No,No,Pay_003,RAT_003,3.4,20,28-12-2018
+17293281,Last Resort Grill,"American, Southern, Southwestern",CIT_002,ADD_021,40,Yes,Yes,Pay_004,RAT_001,4.5,1821,28-12-2018
+17293301,Mama's Boy Restaurant,Southern,CIT_002,ADD_022,10,No,No,Pay_003,RAT_001,4.5,849,28-12-2018
+17293409,Sr. Sol 1,Mexican,CIT_002,ADD_023,10,No,No,Pay_003,RAT_001,4.6,917,28-12-2018
+17293163,Choo Choo Eastside,"Japanese, Korean",CIT_002,ADD_024,10,No,No,Pay_003,RAT_004,3.9,439,28-12-2018
+17293228,The Grill,"Breakfast, Burger, Sandwich",CIT_002,ADD_025,10,No,No,Pay_003,RAT_004,3.7,289,28-12-2018
+17293880,Big City Bread Cafe,"Breakfast, Sandwich",CIT_002,ADD_026,10,No,No,Pay_003,RAT_002,4.3,558,28-12-2018
+17293169,Clocked,"American, Burger, Sandwich",CIT_002,ADD_027,10,No,No,Pay_003,RAT_002,4.2,613,28-12-2018
+17293186,DePalma's Italian Cafe - Downtown,"American, Italian, Pizza",CIT_002,ADD_028,25,No,Yes,Pay_005,RAT_002,4,353,28-12-2018
+17293180,DePalma's Italian Cafe - East Side,"American, Italian, Pizza",CIT_002,ADD_029,25,No,Yes,Pay_005,RAT_002,4.1,387,28-12-2018
+17293205,Five & Ten,American,CIT_002,ADD_030,40,Yes,Yes,Pay_004,RAT_002,4.3,755,28-12-2018
+17293229,Grit,"International, Southern, Vegetarian",CIT_002,ADD_031,10,No,No,Pay_003,RAT_002,4.2,800,28-12-2018
+17293897,Ike & Jane,Sandwich,CIT_002,ADD_032,10,No,No,Pay_003,RAT_002,4.1,350,28-12-2018
+17293273,La Dolce Vita Ristorante,Italian,CIT_002,ADD_033,40,Yes,Yes,Pay_004,RAT_002,4.1,464,28-12-2018
+17293870,Shokitini,"Asian, Japanese, Sushi",CIT_002,ADD_034,25,No,Yes,Pay_005,RAT_002,4.2,550,28-12-2018
+17293877,Taqueria Del Sol,"Mexican, Spanish",CIT_002,ADD_035,10,No,No,Pay_003,RAT_002,4.1,543,28-12-2018
+17293890,The National,"International, Southern",CIT_002,ADD_036,40,Yes,Yes,Pay_004,RAT_002,4.1,465,28-12-2018
+17293915,The Royal Peasant,Bar Food,CIT_002,ADD_037,10,No,No,Pay_003,RAT_002,4.4,546,28-12-2018
+17293422,Transmetropolitan,"Italian, Pizza, Sandwich",CIT_002,ADD_038,10,No,No,Pay_003,RAT_002,4.4,1098,28-12-2018
+17293873,Trappeze Pub,"Burger, Bar Food",CIT_002,ADD_039,25,No,Yes,Pay_005,RAT_002,4.2,579,28-12-2018
+17294014,Viva! Argentine Cuisine,"Desserts, Latin American, Argentine",CIT_002,ADD_040,10,No,No,Pay_003,RAT_002,4.1,374,28-12-2018
+17294556,Miyabi Kyoto Japanese Steak House,"Chinese, Steak",CIT_003,ADD_041,40,Yes,Yes,Pay_004,RAT_001,4.6,717,28-12-2018
+17294607,Rae's Coastal Cafe,"American, Caribbean, Seafood",CIT_003,ADD_042,40,Yes,Yes,Pay_004,RAT_001,4.9,548,28-12-2018
+17294279,The Bee's Knees,"International, Tapas, Vegetarian",CIT_003,ADD_043,25,No,Yes,Pay_005,RAT_001,4.5,631,28-12-2018
+17294300,Boll Weevil Cafe,"Desserts, Sandwich, Southern",CIT_003,ADD_044,10,No,No,Pay_003,RAT_004,3.9,372,28-12-2018
+17295215,Farmhaus Burger,"American, Burger",CIT_003,ADD_045,25,No,Yes,Pay_005,RAT_004,3.9,201,28-12-2018
+17295028,Manuel's Bread Cafe,"Breakfast, French",CIT_003,ADD_046,40,Yes,Yes,Pay_004,RAT_004,3.8,332,28-12-2018
+17294642,Sconyers Bar B Que,BBQ,CIT_003,ADD_047,25,No,Yes,Pay_005,RAT_004,3.5,304,28-12-2018
+17295109,Frog Hollow Tavern,American,CIT_003,ADD_048,40,Yes,Yes,Pay_004,RAT_002,4.3,368,28-12-2018
+17294441,Giuseppe's Pizza & Italian Specialities,"Desserts, Italian, Pizza",CIT_003,ADD_049,25,No,Yes,Pay_005,RAT_002,4.1,430,28-12-2018
+17294552,Mellow Mushroom,"Italian, Pizza, Sandwich",CIT_003,ADD_050,25,No,Yes,Pay_005,RAT_002,4.4,433,28-12-2018
+17294565,Nacho Mamas Burritos,Mexican,CIT_003,ADD_051,10,No,No,Pay_003,RAT_002,4,380,28-12-2018
+17294623,Rhinehart's Oyster Bar,"Bar Food, Sandwich, Seafood",CIT_003,ADD_052,25,No,Yes,Pay_005,RAT_002,4,456,28-12-2018
+17294712,Takosushi,"Mexican, Southwestern, Sushi",CIT_003,ADD_053,40,Yes,Yes,Pay_004,RAT_002,4.2,647,28-12-2018
+17295033,The Chop House,Steak,CIT_003,ADD_054,40,Yes,Yes,Pay_004,RAT_002,4,360,28-12-2018
+17295069,The Taj of India,Indian,CIT_003,ADD_055,25,No,Yes,Pay_005,RAT_002,4,227,28-12-2018
+17294261,Augsburg Haus,German,CIT_003,ADD_056,25,No,Yes,Pay_005,RAT_004,3.9,290,28-12-2018
+17295115,Pho Bac,Vietnamese,CIT_003,ADD_057,10,No,No,Pay_003,RAT_002,4.1,270,28-12-2018
+17294836,Rhinehart's Oyster Bar,"Burger, Seafood",CIT_003,ADD_058,25,No,Yes,Pay_005,RAT_002,4,326,28-12-2018
+17294850,Thai Kitchen,Thai,CIT_003,ADD_059,35,No,Yes,Pay_004,RAT_002,4.3,317,28-12-2018
+17294883,El Kiosco Mexican Restaurant,Mexican,CIT_003,ADD_060,10,No,No,Pay_003,RAT_002,4.2,300,28-12-2018
+17303465,Bardenay,"American, Bar Food",CIT_004,ADD_061,25,No,Yes,Pay_005,RAT_001,4.5,879,28-12-2018
+17303642,Flatbread Neapolitan Pizzeria,"Italian, Pizza",CIT_004,ADD_062,25,No,Yes,Pay_005,RAT_001,4.6,615,28-12-2018
+17303670,Goldy's Breakfast Bistro,"Breakfast, Sandwich",CIT_004,ADD_063,25,No,Yes,Pay_005,RAT_001,4.5,879,28-12-2018
+17303545,Chandlers Steakhouse,"American, Seafood, Steak",CIT_004,ADD_064,70,Yes,No,Pay_001,RAT_004,3.9,379,28-12-2018
+17303655,Bar Gernika Basque Pub & Eatery,"European, Spanish",CIT_004,ADD_065,10,No,No,Pay_003,RAT_002,4.3,303,28-12-2018
+17304691,Barbacoa Restaurant,"Latin American, Steak",CIT_004,ADD_066,70,Yes,No,Pay_001,RAT_002,4.1,538,28-12-2018
+17303478,Big Jud's,"American, Burger, Sandwich",CIT_004,ADD_067,10,No,No,Pay_003,RAT_002,4.2,334,28-12-2018
+17303480,Bittercreek Ale House,"American, Bar Food",CIT_004,ADD_068,25,No,Yes,Pay_005,RAT_002,4.3,555,28-12-2018
+17304733,Boise Fry Company,"American, Burger",CIT_004,ADD_069,10,No,No,Pay_003,RAT_002,4.4,823,28-12-2018
+17303646,Flying Pie Pizzaria,Pizza,CIT_004,ADD_070,25,No,Yes,Pay_005,RAT_002,4.1,550,28-12-2018
+17304929,Fork,"American, Burger",CIT_004,ADD_071,25,No,Yes,Pay_005,RAT_002,4.4,650,28-12-2018
+17303684,Guido's Original New York Style Pizza,Pizza,CIT_004,ADD_072,10,No,No,Pay_003,RAT_002,4.3,410,28-12-2018
+17303772,Los Beto's,Mexican,CIT_004,ADD_073,10,No,No,Pay_003,RAT_002,4.4,660,28-12-2018
+17305123,Lucianos Italian Restaurant,"Italian, Seafood, Vegetarian",CIT_004,ADD_074,25,No,Yes,Pay_005,RAT_002,4.4,360,28-12-2018
+17303787,Mai Thai Restaurant,"Sushi, Thai",CIT_004,ADD_075,40,Yes,Yes,Pay_004,RAT_002,4,340,28-12-2018
+17303990,Shige Japanese Cuisine,"Japanese, Sushi, Teriyaki",CIT_004,ADD_076,25,No,Yes,Pay_005,RAT_002,4.1,393,28-12-2018
+17304741,The Egg Factory,Breakfast,CIT_004,ADD_077,10,No,No,Pay_003,RAT_002,4.3,422,28-12-2018
+17304726,Tucanos,Brazilian,CIT_004,ADD_078,40,Yes,Yes,Pay_004,RAT_002,4,435,28-12-2018
+17304486,Texas Roadhouse,"American, BBQ, Steak",CIT_004,ADD_079,25,No,Yes,Pay_005,RAT_002,4,369,28-12-2018
+17304533,Brick 29,American,CIT_004,ADD_080,40,Yes,Yes,Pay_004,RAT_002,4.4,487,28-12-2018
+17316233,Winifreds,"American, Mediterranean, Seafood",CIT_005,ADD_081,40,Yes,Yes,Pay_004,RAT_004,3.7,98,28-12-2018
+17315883,Biaggi's Ristorante Italiano,"Italian, Pizza",CIT_005,ADD_082,40,Yes,Yes,Pay_004,RAT_002,4.1,365,28-12-2018
+17315995,El Super Burrito,Mexican,CIT_005,ADD_083,10,No,No,Pay_003,RAT_002,4.1,190,28-12-2018
+17316018,Granite City Food & Brewery,"American, Breakfast, Burger",CIT_005,ADD_084,40,Yes,Yes,Pay_004,RAT_002,4.1,429,28-12-2018
+17316038,Irish Democrat,"American, BBQ, Burger",CIT_005,ADD_085,25,No,Yes,Pay_005,RAT_002,4.4,430,28-12-2018
+17316771,Taste of India,Indian,CIT_005,ADD_086,25,No,Yes,Pay_005,RAT_002,4.2,186,28-12-2018
+17316201,Thai Moon Restaurant,"Chinese, Sushi, Thai",CIT_005,ADD_087,10,No,No,Pay_003,RAT_002,4.2,220,28-12-2018
+17316208,Ting's Red Lantern,Chinese,CIT_005,ADD_088,10,No,No,Pay_003,RAT_002,4.2,347,28-12-2018
+17316389,Monica's,"American, Italian, Pizza",CIT_005,ADD_089,25,No,Yes,Pay_005,RAT_004,3.8,161,28-12-2018
+17316278,Exotic India,Indian,CIT_005,ADD_090,25,No,Yes,Pay_005,RAT_002,4.1,160,28-12-2018
+17316744,Shorts Burger and Shine,Burger,CIT_005,ADD_091,10,No,No,Pay_003,RAT_001,4.9,820,28-12-2018
+17316751,The Hamburg Inn No. 2 Inc.,"American, Breakfast, Burger",CIT_005,ADD_092,10,No,No,Pay_003,RAT_001,4.5,488,28-12-2018
+17316766,Bluebird Diner,"Breakfast, Diner",CIT_005,ADD_093,25,No,Yes,Pay_005,RAT_004,3.6,253,28-12-2018
+17316743,Graze,"American, International, Sushi",CIT_005,ADD_094,40,Yes,Yes,Pay_004,RAT_004,3.8,220,28-12-2018
+17316374,A & A Pagliai's Pizza,Pizza,CIT_005,ADD_095,25,No,Yes,Pay_005,RAT_002,4.3,485,28-12-2018
+17316381,Atlas World Grill,International,CIT_005,ADD_096,40,Yes,Yes,Pay_004,RAT_002,4.3,428,28-12-2018
+17316802,BlackStone,"American, Breakfast",CIT_005,ADD_097,25,No,Yes,Pay_005,RAT_002,4.1,294,28-12-2018
+17316416,Devotay,"Mediterranean, Tapas, Vegetarian",CIT_005,ADD_098,40,Yes,Yes,Pay_004,RAT_002,4,380,28-12-2018
+17316449,Jimmy Jack's Rib Shack,BBQ,CIT_005,ADD_099,25,No,Yes,Pay_005,RAT_002,4.2,259,28-12-2018
+17316603,Zoeys Pizzeria,"Pizza, Sandwich",CIT_005,ADD_100,25,No,Yes,Pay_005,RAT_001,4.7,433,28-12-2018
+17558684,Berry Patch Restaurant,"American, Breakfast, Desserts",CIT_006,ADD_101,10,No,No,Pay_003,RAT_002,4.3,96,28-12-2018
+18366580,Sakura Sushi & Grill,"Asian, Japanese",CIT_007,ADD_102,25,No,Yes,Pay_005,RAT_003,3.1,6,28-12-2018
+17330755,Uptown Vietnam cuisine,"Asian, Vietnamese",CIT_008,ADD_103,10,No,No,Pay_003,RAT_003,3.3,33,28-12-2018
+17330611,Cafe Le Rue @ The Landings,"American, Seafood, Cajun",CIT_008,ADD_104,25,No,Yes,Pay_005,RAT_001,4.6,489,28-12-2018
+17330609,Mark's City Grille,American,CIT_008,ADD_105,25,No,Yes,Pay_005,RAT_001,4.5,345,28-12-2018
+17330024,B Merrell's,"Burger, Bar Food, Southern",CIT_008,ADD_106,25,No,Yes,Pay_005,RAT_004,3.8,149,28-12-2018
+17330074,Cannon Brewpub,"Pizza, Bar Food",CIT_008,ADD_107,25,No,Yes,Pay_005,RAT_004,3.9,330,28-12-2018
+17330185,Fuji Japanese Steak House,"Japanese, Steak",CIT_008,ADD_108,40,Yes,Yes,Pay_004,RAT_004,3.9,247,28-12-2018
+17330397,Ruth Ann's Family Restaurant,"Breakfast, Diner, Southern",CIT_008,ADD_109,10,No,No,Pay_003,RAT_004,3.7,123,28-12-2018
+17330735,Samurai Japanese Cuisine & Sushi Bar,"Japanese, Steak, Sushi",CIT_008,ADD_110,40,Yes,Yes,Pay_004,RAT_004,3.6,109,28-12-2018
+17330676,Wasabi Sushi and Thai,"Japanese, Sushi, Thai",CIT_008,ADD_111,40,Yes,Yes,Pay_004,RAT_004,3.7,134,28-12-2018
+17330048,Buckhead Bar and Grill,"Seafood, Steak, Vegetarian",CIT_008,ADD_112,40,Yes,Yes,Pay_004,RAT_002,4.2,722,28-12-2018
+17330604,Burt's Butcher Shoppe and Eatery,Steak,CIT_008,ADD_113,25,No,Yes,Pay_005,RAT_002,4.3,213,28-12-2018
+17330087,Chef Lee's Peking Restaurant,Chinese,CIT_008,ADD_114,25,No,Yes,Pay_005,RAT_002,4,335,28-12-2018
+17330137,Country's Barbecue,"BBQ, Southern",CIT_008,ADD_115,25,No,Yes,Pay_005,RAT_002,4,353,28-12-2018
+17330155,Deorio's,"Italian, Pizza",CIT_008,ADD_116,0,No,No,Pay_003,RAT_002,4,170,28-12-2018
+17330309,Mellow Mushroom,Pizza,CIT_008,ADD_117,25,No,Yes,Pay_005,RAT_002,4.1,192,28-12-2018
+17330311,Meritage,"American, Tapas",CIT_008,ADD_118,40,Yes,Yes,Pay_004,RAT_002,4.1,302,28-12-2018
+17330615,Mongo The Mongolian Fire Pit,"Asian, Chinese",CIT_008,ADD_119,10,No,No,Pay_003,RAT_002,4.2,355,28-12-2018
+17330638,The Black Cow,American,CIT_008,ADD_120,25,No,Yes,Pay_005,RAT_002,4.3,287,28-12-2018
+17330628,Wood Stone,"Italian, Mediterranean, Pizza",CIT_008,ADD_121,40,Yes,Yes,Pay_004,RAT_002,4,264,28-12-2018
+17330546,Hunter's Pub,"American, Seafood, Steak",CIT_008,ADD_122,40,Yes,Yes,Pay_004,RAT_002,4.4,235,28-12-2018
+17334434,Thatcher's Barbeque and Grill,"American, BBQ, Southern",CIT_009,ADD_123,25,No,Yes,Pay_005,RAT_004,3.7,38,28-12-2018
+17334348,Christian and Jake's Bistro,"Desserts, Sandwich",CIT_009,ADD_124,10,No,No,Pay_003,RAT_002,4.4,122,28-12-2018
+17334213,Dub's High on the Hog,BBQ,CIT_009,ADD_125,25,No,Yes,Pay_005,RAT_002,4.4,207,28-12-2018
+17334355,Sierra's Mexican Restaurant,"Mexican, Tex-Mex",CIT_009,ADD_126,10,No,No,Pay_003,RAT_004,3.9,66,28-12-2018
+17334212,Oakwood Cafe,"BBQ, Breakfast, Southern",CIT_009,ADD_127,10,No,No,Pay_003,RAT_001,4.9,249,28-12-2018
+17333797,Chili's Grill & Bar,American,CIT_009,ADD_128,25,No,Yes,Pay_005,RAT_004,3.8,63,28-12-2018
+17334217,Fuji Japanese Steakhouse,"Japanese, Sushi",CIT_009,ADD_129,40,Yes,Yes,Pay_004,RAT_004,3.8,145,28-12-2018
+17334273,Las Palmas,Mexican,CIT_009,ADD_130,10,No,No,Pay_003,RAT_004,3.8,83,28-12-2018
+17334254,Tony's Italian Restaurant & Pizza,Italian,CIT_009,ADD_131,25,No,Yes,Pay_005,RAT_004,3.7,116,28-12-2018
+17333836,Filling Station,"American, Burger",CIT_009,ADD_132,10,No,No,Pay_003,RAT_002,4.1,122,28-12-2018
+17334197,Five Guys Burgers and Fries,Fast Food,CIT_009,ADD_133,10,No,No,Pay_003,RAT_002,4.1,142,28-12-2018
+17333882,Los Pablos,Mexican,CIT_009,ADD_134,10,No,No,Pay_003,RAT_002,4.1,114,28-12-2018
+17334211,Kobe Hibachi & Sushi,"American, Japanese, Sushi",CIT_009,ADD_135,25,No,Yes,Pay_005,RAT_001,4.6,214,28-12-2018
+17334390,Soho Hibachi,Japanese,CIT_009,ADD_136,10,No,No,Pay_003,RAT_002,4.3,116,28-12-2018
+17334034,Thai Garden,Thai,CIT_009,ADD_137,25,No,Yes,Pay_005,RAT_002,4.2,111,28-12-2018
+17334414,Southern Bliss Bakery,"Desserts, Sandwich",CIT_009,ADD_138,10,No,No,Pay_003,RAT_004,3.7,25,28-12-2018
+17334082,Bailey's Bar-B-Que,BBQ,CIT_009,ADD_139,10,No,No,Pay_003,RAT_002,4.1,128,28-12-2018
+17334364,Farm To Fork,"American, Diner, Southern",CIT_009,ADD_140,10,No,No,Pay_003,RAT_002,4.3,244,28-12-2018
+17334398,Home Plate Grill,"American, BBQ, Southern",CIT_009,ADD_141,10,No,No,Pay_003,RAT_002,4.2,112,28-12-2018
+17334219,Pie Slingers Pizzeria,"Italian, Pizza",CIT_009,ADD_142,10,No,No,Pay_003,RAT_002,4.1,144,28-12-2018
+17335173,Olive Tree Cafe,"Indian, Mediterranean, Middle Eastern",CIT_010,ADD_143,25,No,Yes,Pay_005,RAT_001,4.6,166,28-12-2018
+17335195,"Red Ginger Sushi, Grill & Bar","Sushi, Teriyaki",CIT_010,ADD_144,40,Yes,Yes,Pay_004,RAT_001,4.5,208,28-12-2018
+17335225,Crust Stone Oven Pizza,"Burger, Pizza",CIT_010,ADD_145,25,No,Yes,Pay_005,RAT_004,3.9,136,28-12-2018
+17335219,Jimmy's Pancake House,"American, Breakfast, Greek",CIT_010,ADD_146,10,No,No,Pay_003,RAT_002,4,85,28-12-2018
+17334965,Trattoria Tiramisu,Italian,CIT_010,ADD_147,25,No,Yes,Pay_005,RAT_002,4.1,117,28-12-2018
+17335189,Prairie Grille at SteepleGate Inn,"American, Breakfast",CIT_010,ADD_148,25,No,Yes,Pay_005,RAT_003,3.4,53,28-12-2018
+17335156,Tantra Asian Bistro,Asian,CIT_010,ADD_149,25,No,Yes,Pay_005,RAT_001,4.9,474,28-12-2018
+17334717,Chick-fil-A,Fast Food,CIT_010,ADD_150,10,No,No,Pay_003,RAT_004,3.9,125,28-12-2018
+17334752,Duck City Bistro,"American, French",CIT_010,ADD_151,70,Yes,No,Pay_001,RAT_004,3.7,201,28-12-2018
+18453427,Frick's Tap,"American, Bar Food, BBQ",CIT_010,ADD_152,25,No,Yes,Pay_005,RAT_006,0,2,28-12-2018
+17793744,Los Agaves,Mexican,CIT_010,ADD_153,25,No,Yes,Pay_005,RAT_006,0,3,28-12-2018
+17334679,Azteca,Mexican,CIT_010,ADD_154,0,No,No,Pay_003,RAT_002,4.3,167,28-12-2018
+17334718,China Cafe,Chinese,CIT_010,ADD_155,25,No,Yes,Pay_005,RAT_002,4,112,28-12-2018
+17334763,Exotic Thai Restaurant,Thai,CIT_010,ADD_156,25,No,Yes,Pay_005,RAT_002,4.1,256,28-12-2018
+17335158,Front Street Brewery,American,CIT_010,ADD_157,10,No,No,Pay_003,RAT_002,4.3,123,28-12-2018
+17334782,Granite City Food & Brewery,American,CIT_010,ADD_158,25,No,Yes,Pay_005,RAT_002,4,199,28-12-2018
+17334846,Los Agaves,Mexican,CIT_010,ADD_159,25,No,Yes,Pay_005,RAT_002,4.1,157,28-12-2018
+17334853,Machine Shed Restaurant,American,CIT_010,ADD_160,25,No,Yes,Pay_005,RAT_002,4.1,100,28-12-2018
+17335168,Osaka,"Japanese, Sushi",CIT_010,ADD_161,40,Yes,Yes,Pay_004,RAT_002,4.2,141,28-12-2018
+17334958,Texas Roadhouse,"American, BBQ, Steak",CIT_010,ADD_162,25,No,Yes,Pay_005,RAT_002,4.2,197,28-12-2018
+17258496,Hickory Park,"BBQ, Burger, Desserts",CIT_011,ADD_163,25,No,Yes,Pay_005,RAT_001,4.5,1025,28-12-2018
+17259395,The Cafe,"American, Coffee and Tea",CIT_011,ADD_164,25,No,Yes,Pay_005,RAT_001,4.9,570,28-12-2018
+17258350,Flying Mango,"BBQ, Caribbean, Cajun",CIT_011,ADD_165,40,Yes,Yes,Pay_004,RAT_001,4.5,674,28-12-2018
+17258136,Cool Basil,"Asian, Sushi, Thai",CIT_011,ADD_166,25,No,Yes,Pay_005,RAT_002,4.1,496,28-12-2018
+17258522,HuHot Mongolian Grill,"Asian, Chinese",CIT_011,ADD_167,25,No,Yes,Pay_005,RAT_002,4,411,28-12-2018
+17259958,Malo,"Latin American, Mexican",CIT_011,ADD_168,25,No,Yes,Pay_005,RAT_003,3.2,113,28-12-2018
+17258036,Centro,"Italian, Pizza",CIT_011,ADD_169,40,Yes,Yes,Pay_004,RAT_001,4.5,1109,28-12-2018
+17259368,Fong's Pizza,"Chinese, Pizza",CIT_011,ADD_170,25,No,Yes,Pay_005,RAT_001,4.6,728,28-12-2018
+17257684,A Dong Restaurant,"Asian, Vegetarian, Vietnamese, Bubble Tea",CIT_011,ADD_171,10,No,No,Pay_003,RAT_002,4.4,659,28-12-2018
+17258154,Court Avenue Brewing Company,"American, Pizza, Bar Food",CIT_011,ADD_172,40,Yes,Yes,Pay_004,RAT_002,4.2,370,28-12-2018
+17259340,Django,French,CIT_011,ADD_173,40,Yes,Yes,Pay_004,RAT_002,4.3,532,28-12-2018
+17259243,Miyabi 9,"Japanese, Sushi",CIT_011,ADD_174,25,No,Yes,Pay_005,RAT_001,4.8,860,28-12-2018
+17259625,Zombie Burger + Drink Lab,"Burger, Desserts, Vegetarian",CIT_011,ADD_175,10,No,No,Pay_003,RAT_002,4.2,943,28-12-2018
+17259169,Tursi's Latin King,"American, Italian",CIT_011,ADD_176,70,Yes,No,Pay_001,RAT_002,4.1,476,28-12-2018
+17259166,Tsing Tsao South,Chinese,CIT_011,ADD_177,10,No,No,Pay_003,RAT_002,4.1,218,28-12-2018
+17259335,Bandit Burrito,"Breakfast, Mexican, Southwestern",CIT_011,ADD_178,10,No,No,Pay_003,RAT_002,4,214,28-12-2018
+17259248,Jethro's BBQ,"American, BBQ",CIT_011,ADD_179,25,No,Yes,Pay_005,RAT_002,4.3,699,28-12-2018
+17258552,The Machine Shed Restaurant,"American, Breakfast",CIT_011,ADD_180,25,No,Yes,Pay_005,RAT_004,3.8,308,28-12-2018
+17259550,Mi Patria,Latin American,CIT_011,ADD_181,25,No,Yes,Pay_005,RAT_002,4,157,28-12-2018
+17259200,Waterfront Seafood Market,"Seafood, Sushi",CIT_011,ADD_182,40,Yes,Yes,Pay_004,RAT_002,4.2,530,28-12-2018
+17342816,Burnt Toast Cafe,Breakfast,CIT_012,ADD_183,10,No,No,Pay_003,RAT_003,3.4,33,28-12-2018
+17342498,Catfish Charlie's,Seafood,CIT_012,ADD_184,25,No,Yes,Pay_005,RAT_003,3.3,40,28-12-2018
+17342648,Salsa's Mexican Restaurant,Mexican,CIT_012,ADD_185,10,No,No,Pay_003,RAT_003,3.4,153,28-12-2018
+17342781,Tony Roma's,"American, BBQ, Seafood",CIT_012,ADD_186,25,No,Yes,Pay_005,RAT_003,3.3,65,28-12-2018
+17342799,Vinny Vanucchi's,Italian,CIT_012,ADD_187,25,No,Yes,Pay_005,RAT_003,3.4,58,28-12-2018
+17342772,Champps Americana,"American, Burger, Sandwich",CIT_012,ADD_188,25,No,Yes,Pay_005,RAT_004,3.5,100,28-12-2018
+17342771,Fiesta Cancun,Mexican,CIT_012,ADD_189,10,No,No,Pay_003,RAT_004,3.6,156,28-12-2018
+17342548,Happy Joe's Pizza & Ice Cream,"Desserts, Pizza, Ice Cream",CIT_012,ADD_190,0,No,No,Pay_003,RAT_004,3.5,74,28-12-2018
+17342556,Houlihan's,"American, Burger",CIT_012,ADD_191,25,No,Yes,Pay_005,RAT_004,3.6,117,28-12-2018
+17342811,Ichiban Hibachi Steakhouse & Sushi Bar,"Japanese, Steak, Sushi",CIT_012,ADD_192,40,Yes,Yes,Pay_004,RAT_004,3.7,83,28-12-2018
+17342576,Kalmes Breaktime Bar & Grill,"American, Burger",CIT_012,ADD_193,25,No,Yes,Pay_005,RAT_004,3.6,48,28-12-2018
+17342770,L. May Eatery,"International, Pizza",CIT_012,ADD_194,40,Yes,Yes,Pay_004,RAT_004,3.8,198,28-12-2018
+17342585,Los Aztecas,Mexican,CIT_012,ADD_195,10,No,No,Pay_003,RAT_004,3.5,126,28-12-2018
+17342494,Manna Java World Cafe,"Breakfast, Pizza",CIT_012,ADD_196,10,No,No,Pay_003,RAT_004,3.5,119,28-12-2018
+17342594,Mario's Italian Restaurant,"American, Italian",CIT_012,ADD_197,25,No,Yes,Pay_005,RAT_004,3.6,140,28-12-2018
+17342625,Pepper Sprout Incorporated,American,CIT_012,ADD_198,40,Yes,Yes,Pay_004,RAT_004,3.6,159,28-12-2018
+17342652,Shot Tower Inn,"Italian, Pizza",CIT_012,ADD_199,25,No,Yes,Pay_005,RAT_004,3.6,131,28-12-2018
+17342665,Sunshine Family Restaurant,"American, Breakfast, Burger",CIT_012,ADD_200,10,No,No,Pay_003,RAT_004,3.5,60,28-12-2018
+17342810,Watershed Cafe,"American, Burger, Pizza, Cafe",CIT_012,ADD_201,25,No,Yes,Pay_005,RAT_004,3.7,89,28-12-2018
+17342775,Woodfire Grille,"American, Seafood, Steak",CIT_012,ADD_202,70,Yes,No,Pay_001,RAT_004,3.6,72,28-12-2018
+17536645,Jehova es Mi Pastor Tacos y Burritos,Mexican,CIT_013,ADD_203,10,No,No,Pay_003,RAT_004,3.7,83,28-12-2018
+17374405,Houndstooth Grill & Tavern,"American, Sandwich, Seafood",CIT_014,ADD_204,25,No,Yes,Pay_005,RAT_002,4.4,239,28-12-2018
+17375060,Hawg Wild BBQ & Catfish House,"BBQ, Burger, Seafood",CIT_014,ADD_205,10,No,No,Pay_003,RAT_002,4.1,235,28-12-2018
+17375164,Bourbon Street Grille,"American, Burger, Cajun",CIT_014,ADD_206,25,No,Yes,Pay_005,RAT_004,3.8,88,28-12-2018
+17374552,Corkscrew Cafe,,CIT_014,ADD_207,40,Yes,Yes,Pay_004,RAT_004,3.9,209,28-12-2018
+17375078,Smokin Gold BBQ,BBQ,CIT_014,ADD_208,10,No,No,Pay_003,RAT_004,3.9,133,28-12-2018
+17375049,Hoka-Hoka Japanese Steak & Sushi,"Chinese, Japanese, Thai",CIT_014,ADD_209,10,No,No,Pay_003,RAT_002,4.4,267,28-12-2018
+17375077,Shenanigan's Irish Pub,"Bar Food, Seafood, Vegetarian",CIT_014,ADD_210,25,No,Yes,Pay_005,RAT_002,4.1,171,28-12-2018
+17375141,Fish Tales Lakeside Grille,Seafood,CIT_014,ADD_211,25,No,Yes,Pay_005,RAT_004,3.8,107,28-12-2018
+17375198,Antebellum,"American, Southern",CIT_014,ADD_212,40,Yes,Yes,Pay_004,RAT_002,4.3,164,28-12-2018
+17375180,Moonie's Texas Barbecue,"BBQ, Sandwich",CIT_014,ADD_213,10,No,No,Pay_003,RAT_002,4.1,182,28-12-2018
+17375072,Atlanta Highway Seafood Market,"Sandwich, Seafood, Cajun",CIT_014,ADD_214,25,No,Yes,Pay_005,RAT_001,4.9,681,28-12-2018
+17375047,Eat at Thai,Thai,CIT_014,ADD_215,10,No,No,Pay_003,RAT_001,4.6,357,28-12-2018
+17375074,Smoke House BBQ and Catering,BBQ,CIT_014,ADD_216,25,No,Yes,Pay_005,RAT_004,3.8,89,28-12-2018
+17374921,2 Dog,"American, European, Sandwich",CIT_014,ADD_217,25,No,Yes,Pay_005,RAT_002,4.2,350,28-12-2018
+17374819,Longstreet Cafe,Southern,CIT_014,ADD_218,10,No,No,Pay_003,RAT_002,4.3,298,28-12-2018
+17375089,Re-Cess,"American, Southern",CIT_014,ADD_219,25,No,Yes,Pay_005,RAT_002,4.2,319,28-12-2018
+17375214,Bodensee,German,CIT_014,ADD_220,40,Yes,Yes,Pay_004,RAT_004,3.8,114,28-12-2018
+17374951,Hofer's Bakery & Cafe,"German, Ice Cream",CIT_014,ADD_221,10,No,No,Pay_003,RAT_004,3.9,136,28-12-2018
+17374978,Troll Tavern,"Burger, German, Sandwich",CIT_014,ADD_222,25,No,Yes,Pay_005,RAT_005,2.2,108,28-12-2018
+17375104,The Nacoochee Village Tavern & Pizzeria,"Italian, Pizza, Sandwich",CIT_014,ADD_223,10,No,No,Pay_003,RAT_002,4,161,28-12-2018
+17557488,Burger Queen Drive In,"Burger, Desserts, Sandwich",CIT_015,ADD_224,10,No,No,Pay_003,RAT_004,3.6,41,28-12-2018
+17452342,Blue Orchid Thai Restaurant,Thai,CIT_016,ADD_225,25,No,Yes,Pay_005,RAT_001,4.5,799,28-12-2018
+17501291,Emilio's Cuban Cafe,"Coffee and Tea, Cuban, Latin American",CIT_017,ADD_226,25,No,Yes,Pay_005,RAT_004,3.9,146,28-12-2018
+17500759,Ingleside Village Pizza,"Pizza, Sandwich",CIT_017,ADD_227,10,No,No,Pay_003,RAT_001,4.9,478,28-12-2018
+17500767,Jim Shaw's Seafood Grill & Bar,Seafood,CIT_017,ADD_228,25,No,Yes,Pay_005,RAT_001,4.6,467,28-12-2018
+17500819,Mandarin Chinese Restaurant,"Chinese, Thai",CIT_017,ADD_229,25,No,Yes,Pay_005,RAT_001,4.5,302,28-12-2018
+17500911,Rookery,"Burger, Desserts, Bar Food",CIT_017,ADD_230,25,No,Yes,Pay_005,RAT_001,4.5,289,28-12-2018
+17501439,Dovetail,,CIT_017,ADD_231,40,Yes,Yes,Pay_004,RAT_004,3.8,102,28-12-2018
+17501279,Bonefish Grill,"American, Seafood",CIT_017,ADD_232,40,Yes,Yes,Pay_004,RAT_002,4.1,293,28-12-2018
+17500695,Downtown Grill,Steak,CIT_017,ADD_233,70,Yes,No,Pay_001,RAT_002,4,195,28-12-2018
+17501298,Greek Corner Deli,"Desserts, Greek, Sandwich",CIT_017,ADD_234,10,No,No,Pay_003,RAT_002,4.3,244,28-12-2018
+17500847,Natalia's,"European, Italian, Mediterranean",CIT_017,ADD_235,70,Yes,No,Pay_001,RAT_002,4.2,379,28-12-2018
+17500872,Papouli's Mediterranean Cafe & Market,"Greek, Mediterranean, Vegetarian",CIT_017,ADD_236,10,No,No,Pay_003,RAT_002,4.2,223,28-12-2018
+17501315,Benson's Steak and Sushi,"American, Chinese, Sushi",CIT_017,ADD_237,25,No,Yes,Pay_005,RAT_004,3.7,243,28-12-2018
+17501201,My Fathers Place,Italian,CIT_017,ADD_238,25,No,Yes,Pay_005,RAT_004,3.7,104,28-12-2018
+17501247,Sushi Thai Restaurant,"Japanese, Sushi, Thai",CIT_017,ADD_239,10,No,No,Pay_003,RAT_004,3.7,153,28-12-2018
+17501281,The Mellow Mushroom,"Pizza, Sandwich, Vegetarian",CIT_017,ADD_240,25,No,Yes,Pay_005,RAT_004,3.8,323,28-12-2018
+17501143,El Jalisciense Mexican Restaurant,Mexican,CIT_017,ADD_241,10,No,No,Pay_003,RAT_002,4.1,181,28-12-2018
+17501292,Greek Village,"American, Greek, Seafood",CIT_017,ADD_242,25,No,Yes,Pay_005,RAT_002,4,316,28-12-2018
+17501308,Martin's BBQ,BBQ,CIT_017,ADD_243,25,No,Yes,Pay_005,RAT_002,4.2,288,28-12-2018
+17501301,Thai Pepper,"Japanese, Sushi, Thai",CIT_017,ADD_244,10,No,No,Pay_003,RAT_002,4,232,28-12-2018
+17501268,Zen Japanese Steakhouse and Sushi Bar,"Japanese, Steak, Sushi",CIT_017,ADD_245,40,Yes,Yes,Pay_004,RAT_002,4.1,314,28-12-2018
+17482142,Triangle Restaurant,"Breakfast, Burger",CIT_018,ADD_246,10,No,No,Pay_003,RAT_005,2.4,17,28-12-2018
+17606621,HI Lite Bar & Lounge,,CIT_019,ADD_247,0,No,No,Pay_003,RAT_003,3.4,11,28-12-2018
+17687832,Vince's Restaurant & Pizzeria,"Italian, Pizza",CIT_020,ADD_248,25,No,Yes,Pay_005,RAT_004,3.6,65,28-12-2018
+17534788,The Artesian Restaurant,"American, International, Southwestern",CIT_021,ADD_249,40,Yes,Yes,Pay_004,RAT_004,3.6,30,28-12-2018
+17061237,Ceví_che Tapas Bar & Restaurant,"Spanish, Tapas",CIT_022,ADD_250,40,Yes,Yes,Pay_004,RAT_002,4.4,981,28-12-2018
+17057397,'Ohana,Hawaiian,CIT_022,ADD_251,45,Yes,Yes,Pay_002,RAT_001,4.5,1151,28-12-2018
+17058534,Earl of Sandwich,"American, Sandwich, Salad",CIT_022,ADD_252,35,No,Yes,Pay_004,RAT_001,4.7,1341,28-12-2018
+17060320,Raglan Road Irish Pub and Restaurant,Irish,CIT_022,ADD_253,50,Yes,Yes,Pay_002,RAT_002,4.3,782,28-12-2018
+17057925,Cafí© Tu Tu Tango,"New American, Tapas",CIT_022,ADD_254,40,Yes,Yes,Pay_004,RAT_001,4.6,1293,28-12-2018
+17060869,Texas de Brazil,"Brazilian, Steak",CIT_022,ADD_255,100,Yes,Yes,Pay_001,RAT_001,4.6,2324,28-12-2018
+17057591,Bahama Breeze Island Grille,Caribbean,CIT_022,ADD_256,45,Yes,Yes,Pay_002,RAT_002,4.3,910,28-12-2018
+17059541,Maggiano's Little Italy,Italian,CIT_022,ADD_257,50,Yes,Yes,Pay_002,RAT_002,4.4,886,28-12-2018
+17064266,Hawkers Asian Street Fare,"Asian, Thai",CIT_022,ADD_258,35,No,Yes,Pay_004,RAT_001,4.6,1293,28-12-2018
+17064405,Tako Cheena by Pom Pom,"Asian, Latin American, Vegetarian",CIT_022,ADD_259,10,No,No,Pay_003,RAT_002,4.4,570,28-12-2018
+17060516,Seasons 52 Fresh Grill,American,CIT_022,ADD_260,60,Yes,No,Pay_001,RAT_002,4.4,1685,28-12-2018
+17059012,Hollerbach's Willow Tree Cafí©,German,CIT_022,ADD_261,40,Yes,Yes,Pay_004,RAT_001,4.8,1699,28-12-2018
+17061296,Pom Pom's Teahouse and Sandwicheria,"American, Sandwich, Tea",CIT_022,ADD_262,25,No,Yes,Pay_005,RAT_001,4.9,1457,28-12-2018
+17061205,Yellow Dog Eats,"American, BBQ, Sandwich",CIT_022,ADD_263,35,No,Yes,Pay_004,RAT_001,4.9,1252,28-12-2018
+17064031,Tibby's New Orleans Kitchen,Cajun,CIT_022,ADD_264,25,No,Yes,Pay_005,RAT_001,4.7,1412,28-12-2018
+17066603,The Coop,"Southern, Cajun, Soul Food",CIT_022,ADD_265,25,No,Yes,Pay_005,RAT_004,3.6,432,28-12-2018
+17057797,Bosphorous Turkish Cuisine,"Mediterranean, Turkish",CIT_022,ADD_266,40,Yes,Yes,Pay_004,RAT_002,4.2,568,28-12-2018
+17061253,Ethos Vegan Kitchen,"American, Breakfast, Vegetarian",CIT_022,ADD_267,25,No,Yes,Pay_005,RAT_002,4.4,797,28-12-2018
+17059060,Hillstone,,CIT_022,ADD_268,40,Yes,Yes,Pay_004,RAT_002,4.4,1158,28-12-2018
+17061231,The Ravenous Pig,Pub Food,CIT_022,ADD_269,40,Yes,Yes,Pay_004,RAT_002,4.4,1998,28-12-2018
+17580453,Cactus Flower Cafe Navarre,"Mexican, Southwestern, Tex-Mex",CIT_023,ADD_270,25,No,Yes,Pay_005,RAT_002,4.2,635,28-12-2018
+17580142,McGuire's Irish Pub & Brewery,"Burger, Bar Food, Steak",CIT_023,ADD_271,40,Yes,Yes,Pay_004,RAT_001,4.9,2238,28-12-2018
+17580160,New Yorker Deli & Pizzeria,"Italian, Pizza, Sandwich",CIT_023,ADD_272,10,No,No,Pay_003,RAT_001,4.6,792,28-12-2018
+17580349,Tu-Do Vietnamese Restaurant,"Asian, Vietnamese",CIT_023,ADD_273,10,No,No,Pay_003,RAT_001,4.5,828,28-12-2018
+17580412,Carrabba's Italian Grill,"Italian, Pizza, Seafood",CIT_023,ADD_274,40,Yes,Yes,Pay_004,RAT_004,3.7,292,28-12-2018
+17580590,Jaco's Bayfront Bar and Grille,Tapas,CIT_023,ADD_275,25,No,Yes,Pay_005,RAT_004,3.9,502,28-12-2018
+17580704,The Tin Cow,"Burger, Bar Food",CIT_023,ADD_276,25,No,Yes,Pay_005,RAT_004,3.7,559,28-12-2018
+17579928,Cactus Flower Cafe,"Latin American, Mexican, Southwestern",CIT_023,ADD_277,25,No,Yes,Pay_005,RAT_002,4.2,1268,28-12-2018
+17579992,Dharma Blue,"Seafood, Sushi",CIT_023,ADD_278,40,Yes,Yes,Pay_004,RAT_002,4.1,669,28-12-2018
+17580030,Global Grill,"European, International, Tapas",CIT_023,ADD_279,40,Yes,Yes,Pay_004,RAT_002,4.4,900,28-12-2018
+17580074,Ichiban,"Japanese, Sushi",CIT_023,ADD_280,25,No,Yes,Pay_005,RAT_002,4.3,765,28-12-2018
+17580020,The Fish House,"American, Seafood, Sushi",CIT_023,ADD_281,40,Yes,Yes,Pay_004,RAT_002,4,1270,28-12-2018
+17580350,Tuscan Oven,"Italian, Mediterranean, Pizza",CIT_023,ADD_282,25,No,Yes,Pay_005,RAT_002,4.1,502,28-12-2018
+17580408,Flounders Chowder House,Seafood,CIT_023,ADD_283,40,Yes,Yes,Pay_004,RAT_004,3.9,724,28-12-2018
+17579653,Hemingway's Island Grill,"Caribbean, Seafood, Steak",CIT_023,ADD_284,40,Yes,Yes,Pay_004,RAT_004,3.5,479,28-12-2018
+17580476,Native Cafe,"Breakfast, Burger",CIT_023,ADD_285,25,No,Yes,Pay_005,RAT_002,4.2,591,28-12-2018
+17580422,Peg Leg Pete's,"Burger, Sandwich, Seafood",CIT_023,ADD_286,40,Yes,Yes,Pay_004,RAT_002,4.4,1408,28-12-2018
+17580539,The Grand Marlin,"Caribbean, Seafood",CIT_023,ADD_287,40,Yes,Yes,Pay_004,RAT_002,4.3,905,28-12-2018
+17580511,Original Georgios Authentic Greek Food,Greek,CIT_023,ADD_288,10,No,No,Pay_003,RAT_001,4.7,816,28-12-2018
+17580021,Fisherman's Corner,"Sandwich, Seafood, Cajun",CIT_023,ADD_289,40,Yes,Yes,Pay_004,RAT_002,4.4,747,28-12-2018
+17582467,Rupes Burgers,"Burger, Fast Food",CIT_024,ADD_290,10,No,No,Pay_003,RAT_004,3.7,104,28-12-2018
+17582668,Texas Roadhouse,"American, BBQ, Steak",CIT_024,ADD_291,45,Yes,Yes,Pay_002,RAT_004,3.5,83,28-12-2018
+17582498,Riverwalk Cafe,"Asian, Thai",CIT_024,ADD_292,10,No,No,Pay_003,RAT_004,3.6,91,28-12-2018
+17582499,Royal Hotel,"Pizza, Bar Food",CIT_024,ADD_293,0,No,No,Pay_003,RAT_004,3.6,59,28-12-2018
+17582522,Buddy's Italian Restaurant,"Italian, Pizza, Sandwich",CIT_024,ADD_294,40,Yes,Yes,Pay_004,RAT_004,3.7,222,28-12-2018
+17582524,Butterburrs,"American, Breakfast",CIT_024,ADD_295,30,No,Yes,Pay_004,RAT_004,3.6,121,28-12-2018
+17582527,Chang Garden,Chinese,CIT_024,ADD_296,10,No,No,Pay_003,RAT_004,3.5,93,28-12-2018
+17582551,Fifth Street Bagelry,"Coffee and Tea, Sandwich",CIT_024,ADD_297,10,No,No,Pay_003,RAT_004,3.8,136,28-12-2018
+17582558,Goody's Deli,"Pizza, Sandwich",CIT_024,ADD_298,10,No,No,Pay_003,RAT_004,3.8,160,28-12-2018
+17582560,Grecian Key Restaurant,"American, Greek",CIT_024,ADD_299,25,No,Yes,Pay_005,RAT_004,3.7,152,28-12-2018
+17582677,Outer Limits Fun Zone,"Burger, Pizza, Sandwich",CIT_024,ADD_300,10,No,No,Pay_003,RAT_004,3.5,57,28-12-2018
+17582670,Portneuf Valley Brewing,"American, Pizza",CIT_024,ADD_301,25,No,Yes,Pay_005,RAT_004,3.7,191,28-12-2018
+17582625,Sandpiper Restaurant & Lounge,"American, Seafood, Steak",CIT_024,ADD_302,40,Yes,Yes,Pay_004,RAT_004,3.6,85,28-12-2018
+17582627,Senor Iguanas,Mexican,CIT_024,ADD_303,0,No,No,Pay_003,RAT_004,3.6,108,28-12-2018
+17582700,Sushi Family,"Asian, Sushi, Vegetarian",CIT_024,ADD_304,25,No,Yes,Pay_005,RAT_004,3.6,132,28-12-2018
+17582664,Taste of India Nepal,"Indian, International, Vegetarian",CIT_024,ADD_305,25,No,Yes,Pay_005,RAT_004,3.8,141,28-12-2018
+17582682,Thai Paradise,"Desserts, Thai",CIT_024,ADD_306,25,No,Yes,Pay_005,RAT_004,3.7,162,28-12-2018
+17582669,The Bridge,New American,CIT_024,ADD_307,40,Yes,Yes,Pay_004,RAT_004,3.6,144,28-12-2018
+18491935,Nosh Mahal,"Indian, Persian",CIT_024,ADD_308,25,No,Yes,Pay_005,RAT_006,0,1,28-12-2018
+17582546,El Herradero,Mexican,CIT_024,ADD_309,10,No,No,Pay_003,RAT_002,4.1,365,28-12-2018
+17629582,Barrett Junction Cafe,"American, BBQ, Burger",CIT_025,ADD_310,25,No,Yes,Pay_005,RAT_003,3.3,9,28-12-2018
+17211719,Blue Point Grill,Seafood,CIT_026,ADD_311,70,Yes,No,Pay_001,RAT_002,4,542,28-12-2018
+17144717,Giovanni's Shrimp Truck,Seafood,CIT_027,ADD_312,25,No,Yes,Pay_005,RAT_001,4.5,691,28-12-2018
+17143970,Kona Brewing Company,"American, Pizza, Bar Food",CIT_027,ADD_313,35,No,Yes,Pay_004,RAT_001,4.7,764,28-12-2018
+17142698,Leonard's Bakery,,CIT_027,ADD_314,10,No,No,Pay_003,RAT_001,4.7,707,28-12-2018
+17144991,Coconuts Fish Cafe,Seafood,CIT_027,ADD_315,30,No,Yes,Pay_004,RAT_001,4.5,487,28-12-2018
+17142519,Kihei Caffe,"American, Hawaiian",CIT_027,ADD_316,10,No,No,Pay_003,RAT_001,4.5,695,28-12-2018
+17145408,Monkeypod Kitchen by Merriman,Burger,CIT_027,ADD_317,40,Yes,Yes,Pay_004,RAT_002,4.2,485,28-12-2018
+17143336,Sansei Seafood Restaurant & Sushi Bar,"Japanese, Seafood, Sushi",CIT_027,ADD_318,40,Yes,Yes,Pay_004,RAT_002,4.2,807,28-12-2018
+17145077,Star Noodle,Asian,CIT_027,ADD_319,10,No,No,Pay_003,RAT_001,4.6,723,28-12-2018
+17141447,Aloha Mixed Plate,"Asian, Breakfast, Hawaiian",CIT_027,ADD_320,10,No,No,Pay_003,RAT_002,4.2,874,28-12-2018
+17142096,Gazebo,"Breakfast, Burger",CIT_027,ADD_321,25,No,Yes,Pay_005,RAT_002,4.4,552,28-12-2018
+17142297,Hula Grill,"Hawaiian, Seafood, Steak",CIT_027,ADD_322,40,Yes,Yes,Pay_004,RAT_002,4.3,1056,28-12-2018
+17142535,Kimo's,"Hawaiian, Seafood, Steak",CIT_027,ADD_323,40,Yes,Yes,Pay_004,RAT_002,4.3,707,28-12-2018
+17142792,Mama's Fish House,"Hawaiian, Seafood",CIT_027,ADD_324,70,Yes,No,Pay_001,RAT_001,4.9,1343,28-12-2018
+17145495,Marukame Udon,Japanese,CIT_027,ADD_325,10,No,No,Pay_003,RAT_001,4.9,602,28-12-2018
+17143950,Yard House,"American, Asian, Burger",CIT_027,ADD_326,40,Yes,Yes,Pay_004,RAT_001,4.6,1078,28-12-2018
+17142747,Lulu's Waikiki,American,CIT_027,ADD_327,25,No,Yes,Pay_005,RAT_004,3.9,232,28-12-2018
+17141990,Duke's Waikiki,"Hawaiian, Seafood, Steak",CIT_027,ADD_328,70,Yes,No,Pay_001,RAT_002,4.4,1492,28-12-2018
+17144732,Eggs 'n Things,Breakfast,CIT_027,ADD_329,10,No,No,Pay_003,RAT_002,4,535,28-12-2018
+17143282,Roy's,"Asian, European, Seafood",CIT_027,ADD_330,70,Yes,No,Pay_001,RAT_002,4.2,531,28-12-2018
+17143705,Wailana Coffee House,"American, Breakfast, Hawaiian",CIT_027,ADD_331,25,No,Yes,Pay_005,RAT_002,4.2,694,28-12-2018
+17615915,The Lady & Sons,Southern,CIT_028,ADD_332,40,Yes,Yes,Pay_004,RAT_003,3.3,1201,28-12-2018
+17616487,Green Truck Pub,Burger,CIT_028,ADD_333,40,Yes,Yes,Pay_004,RAT_001,4.7,906,28-12-2018
+17615924,Leopold's Ice Cream,"Desserts, Sandwich, Ice Cream",CIT_028,ADD_334,10,No,No,Pay_003,RAT_001,4.6,880,28-12-2018
+17615979,Mrs. Wilkes' Dining Room,"American, Southern",CIT_028,ADD_335,40,Yes,Yes,Pay_004,RAT_001,4.5,1014,28-12-2018
+17616266,Zunzi's,"International, Mediterranean, Sandwich",CIT_028,ADD_336,25,No,Yes,Pay_005,RAT_001,4.5,796,28-12-2018
+17615976,Moon River Brewing Company,"American, Bar Food, Sandwich",CIT_028,ADD_337,25,No,Yes,Pay_005,RAT_004,3.7,747,28-12-2018
+17616025,Pirates' House Restaurant,"American, Seafood, Steak",CIT_028,ADD_338,40,Yes,Yes,Pay_004,RAT_004,3.8,566,28-12-2018
+17615597,B. Matthew's Eatery,"American, Breakfast",CIT_028,ADD_339,25,No,Yes,Pay_005,RAT_002,4.1,683,28-12-2018
+17615740,Crystal Beer Parlor,"American, Bar Food",CIT_028,ADD_340,25,No,Yes,Pay_005,RAT_002,4.4,690,28-12-2018
+17616203,Goose Feathers Cafe and Bakery,"Breakfast, Vegetarian",CIT_028,ADD_341,10,No,No,Pay_003,RAT_002,4.2,680,28-12-2018
+17616590,Henry's,"American, Breakfast",CIT_028,ADD_342,10,No,No,Pay_003,RAT_002,4.1,287,28-12-2018
+17615855,Huey's On The River,"Breakfast, Cajun",CIT_028,ADD_343,40,Yes,Yes,Pay_004,RAT_002,4.1,802,28-12-2018
+17616348,J. Christopher's,"Breakfast, Diner, Sandwich",CIT_028,ADD_344,25,No,Yes,Pay_005,RAT_002,4.3,710,28-12-2018
+17616368,Lulu's Chocolate Bar,"Coffee and Tea, Desserts",CIT_028,ADD_345,10,No,No,Pay_003,RAT_002,4.3,456,28-12-2018
+17616400,Rocks on the River,"Pizza, Seafood, Steak",CIT_028,ADD_346,70,Yes,No,Pay_001,RAT_002,4,687,28-12-2018
+17616076,SOHO South Cafe,"Cafe, Sandwich, Southern",CIT_028,ADD_347,25,No,Yes,Pay_005,RAT_002,4.3,719,28-12-2018
+17616205,The Olde Pink House,"American, Seafood, Southern",CIT_028,ADD_348,70,Yes,No,Pay_001,RAT_002,4.4,1803,28-12-2018
+17616222,Vic's On The River,American,CIT_028,ADD_349,70,Yes,No,Pay_001,RAT_002,4.1,558,28-12-2018
+17616295,The Crab Shack,Seafood,CIT_028,ADD_350,40,Yes,Yes,Pay_004,RAT_004,3.8,883,28-12-2018
+17616465,Tybee Island Social Club,,CIT_028,ADD_351,10,No,No,Pay_003,RAT_004,3.9,309,28-12-2018
+17621616,Archie's Waeside,"Burger, Seafood, Steak",CIT_029,ADD_352,40,Yes,Yes,Pay_004,RAT_004,3.7,100,28-12-2018
+17621696,Bob Roe's Pizza,"American, Pizza, Bar Food",CIT_029,ADD_353,10,No,No,Pay_003,RAT_004,3.6,92,28-12-2018
+17621744,Da Kao Restaurant,"Asian, Vegetarian, Vietnamese",CIT_029,ADD_354,10,No,No,Pay_003,RAT_004,3.8,182,28-12-2018
+17621759,Famous Dave's,BBQ,CIT_029,ADD_355,10,No,No,Pay_003,RAT_004,3.6,76,28-12-2018
+17621763,Fuji Bay Japanese Restaurant,"Japanese, Sushi",CIT_029,ADD_356,40,Yes,Yes,Pay_004,RAT_004,3.7,129,28-12-2018
+17621780,HuHot Mongolian Grill,"Asian, Chinese",CIT_029,ADD_357,25,No,Yes,Pay_005,RAT_004,3.6,94,28-12-2018
+17621781,Hunan Palace,Chinese,CIT_029,ADD_358,25,No,Yes,Pay_005,RAT_004,3.8,129,28-12-2018
+17621788,Jerry's Pizza,Pizza,CIT_029,ADD_359,25,No,Yes,Pay_005,RAT_004,3.8,178,28-12-2018
+17621793,Jim's Burgers,Burger,CIT_029,ADD_360,10,No,No,Pay_003,RAT_004,3.7,97,28-12-2018
+17621796,Johnnie Mars,"American, Desserts, Diner",CIT_029,ADD_361,10,No,No,Pay_003,RAT_004,3.9,161,28-12-2018
+17621831,Miles Inn,American,CIT_029,ADD_362,10,No,No,Pay_003,RAT_004,3.7,122,28-12-2018
+17621832,Milwaukee Wiener House,"American, Fast Food",CIT_029,ADD_363,10,No,No,Pay_003,RAT_004,3.8,195,28-12-2018
+17621833,Minerva's Food & Cocktails,"American, Seafood, Steak",CIT_029,ADD_364,40,Yes,Yes,Pay_004,RAT_004,3.7,146,28-12-2018
+17621834,Monterrey Mexican Restaurant,Mexican,CIT_029,ADD_365,10,No,No,Pay_003,RAT_004,3.7,117,28-12-2018
+17621869,Rebos,"Caribbean, Mexican, Cajun",CIT_029,ADD_366,25,No,Yes,Pay_005,RAT_004,3.8,187,28-12-2018
+17621960,Tokyo Japanese Steakhouse & Sushi Bar,"Japanese, Steak, Sushi",CIT_029,ADD_367,40,Yes,Yes,Pay_004,RAT_004,3.9,239,28-12-2018
+17621746,Diamond Thai Cuisine,"Asian, Thai, Vegetarian",CIT_029,ADD_368,10,No,No,Pay_003,RAT_002,4,303,28-12-2018
+17621755,El Fredo Pizza,Pizza,CIT_029,ADD_369,40,Yes,Yes,Pay_004,RAT_002,4,280,28-12-2018
+17621946,Trattoria Fresco,Italian,CIT_029,ADD_370,25,No,Yes,Pay_005,RAT_002,4,271,28-12-2018
+17621552,Kahill's Steak-Fish Chophouse,"American, Seafood, Steak",CIT_029,ADD_371,70,Yes,No,Pay_001,RAT_004,3.5,58,28-12-2018
+17096140,Rumba Island Bar & Grill,"BBQ, Caribbean, Seafood",CIT_030,ADD_372,25,No,Yes,Pay_005,RAT_001,4.6,1321,28-12-2018
+17099925,Red Mesa Cantina,"Latin American, Mexican, Southwestern",CIT_030,ADD_373,25,No,Yes,Pay_005,RAT_001,4.6,1629,28-12-2018
+17092257,BellaBrava,"American, Italian, Seafood",CIT_030,ADD_374,25,No,Yes,Pay_005,RAT_002,4.1,921,28-12-2018
+17092799,Ceviche Tapas Bar & Restaurant,"Spanish, Tapas",CIT_030,ADD_375,25,No,Yes,Pay_005,RAT_002,4.1,986,28-12-2018
+17095222,The Moon Under Water,"British, Bar Food, Sandwich",CIT_030,ADD_376,25,No,Yes,Pay_005,RAT_002,4.1,1020,28-12-2018
+17092293,Bern's Steak House,"American, Desserts, Steak",CIT_030,ADD_377,70,Yes,No,Pay_001,RAT_001,4.7,3157,28-12-2018
+17102241,Boca Kitchen Bar Market,Breakfast,CIT_030,ADD_378,40,Yes,Yes,Pay_004,RAT_004,3.9,665,28-12-2018
+17102579,Edison: Food+Drink Lab,International,CIT_030,ADD_379,70,Yes,No,Pay_001,RAT_004,3.9,373,28-12-2018
+17092801,Ceviche Tapas Bar & Restaurant,"Breakfast, Spanish, Tapas",CIT_030,ADD_380,25,No,Yes,Pay_002,RAT_002,4.4,1007,28-12-2018
+17093273,Daily Eats,"American, Burger",CIT_030,ADD_381,25,No,Yes,Pay_002,RAT_002,4.4,803,28-12-2018
+17096198,Salt Rock Grill,"American, Seafood, Steak",CIT_030,ADD_382,40,Yes,Yes,Pay_004,RAT_002,4.2,1363,28-12-2018
+17095098,Mazzaro's Italian Market,"Italian, Deli",CIT_030,ADD_383,10,No,No,Pay_003,RAT_001,4.9,1424,28-12-2018
+17093135,Conch Republic Grill,"Sandwich, Seafood, Steak",CIT_030,ADD_384,40,Yes,Yes,Pay_004,RAT_001,4.5,844,28-12-2018
+17095236,Mr. Dunderbak's Biergarten and Marketplatz,"European, German",CIT_030,ADD_385,40,Yes,Yes,Pay_004,RAT_001,4.9,1413,28-12-2018
+17095979,Red Mesa Restaurant,"Breakfast, Mexican",CIT_030,ADD_386,40,Yes,Yes,Pay_004,RAT_001,4.5,1203,28-12-2018
+17099856,Datz,"Desserts, Bar Food",CIT_030,ADD_387,40,Yes,Yes,Pay_004,RAT_001,4.7,3074,28-12-2018
+17100307,Ella's Americana Folk Art Cafe,"International, Italian, Southern",CIT_030,ADD_388,40,Yes,Yes,Pay_004,RAT_001,4.8,1715,28-12-2018
+17093600,Taco Bus,"Mexican, Vegetarian",CIT_030,ADD_389,10,No,No,Pay_003,RAT_001,4.5,1868,28-12-2018
+17100547,The Refinery,"Seafood, Steak",CIT_030,ADD_390,40,Yes,Yes,Pay_004,RAT_002,4,875,28-12-2018
+17093124,Columbia Restaurant,"Cuban, Spanish",CIT_030,ADD_391,40,Yes,Yes,Pay_004,RAT_002,4.4,1746,28-12-2018
+17678243,Buffalo Wild Wings,Bar Food,CIT_031,ADD_392,25,No,Yes,Pay_002,RAT_003,3.4,98,28-12-2018
+17678043,El Toreo Mexican Restaurant,Mexican,CIT_031,ADD_393,25,No,Yes,Pay_002,RAT_003,3.1,83,28-12-2018
+17677978,306 North Restaurant,"Seafood, Southern",CIT_031,ADD_394,40,Yes,Yes,Pay_004,RAT_004,3.9,231,28-12-2018
+17677988,Austins Cattle Co,"Burger, Seafood, Steak",CIT_031,ADD_395,40,Yes,Yes,Pay_004,RAT_004,3.7,216,28-12-2018
+17678231,Beijing Cafe,"Asian, Chinese, Thai",CIT_031,ADD_396,35,No,Yes,Pay_004,RAT_004,3.8,185,28-12-2018
+17677990,Bleu Cafe,"Pizza, Sandwich",CIT_031,ADD_397,25,No,Yes,Pay_002,RAT_004,3.7,185,28-12-2018
+17677991,Bleu Pub,"Burger, Bar Food, Vegetarian",CIT_031,ADD_398,10,No,No,Pay_003,RAT_004,3.8,281,28-12-2018
+17678307,Bubba Jax Crab Shack,"Fast Food, Seafood",CIT_031,ADD_399,40,Yes,Yes,Pay_004,RAT_004,3.7,137,28-12-2018
+17678276,Cheddar's Scratch Kitchen,American,CIT_031,ADD_400,25,No,Yes,Pay_002,RAT_004,3.7,209,28-12-2018
+17678283,El Cazador,Mexican,CIT_031,ADD_401,10,No,No,Pay_003,RAT_004,3.7,168,28-12-2018
+17678222,Friends Grille and Bar,"American, Southern",CIT_031,ADD_402,25,No,Yes,Pay_002,RAT_004,3.9,243,28-12-2018
+17678055,Giulios Greek & Italian Restaurant,"Greek, Italian",CIT_031,ADD_403,40,Yes,Yes,Pay_004,RAT_004,3.8,221,28-12-2018
+17678326,La Jalisco Supermercato,Mexican,CIT_031,ADD_404,10,No,No,Pay_003,RAT_004,3.5,46,28-12-2018
+17678229,Masato Japanese,"Japanese, Sushi",CIT_031,ADD_405,25,No,Yes,Pay_002,RAT_004,3.9,262,28-12-2018
+17678097,Mom & Dad's Italian Restaurant,Italian,CIT_031,ADD_406,25,No,Yes,Pay_002,RAT_004,3.7,183,28-12-2018
+17678216,Mori's Japanese Steakhouse & Sushi Bar,"Japanese, Steak, Sushi",CIT_031,ADD_407,70,Yes,No,Pay_001,RAT_004,3.5,208,28-12-2018
+17678233,Passage 2 India,"Indian, Middle Eastern",CIT_031,ADD_408,25,No,Yes,Pay_002,RAT_004,3.8,245,28-12-2018
+17678148,Rodeo Mexican Restaurant,Mexican,CIT_031,ADD_409,25,No,Yes,Pay_002,RAT_004,3.8,199,28-12-2018
+17678291,Steel Magnolias,Southern,CIT_031,ADD_410,40,Yes,Yes,Pay_004,RAT_004,3.8,225,28-12-2018
+17678218,Smok'n Pig B-B-Q,BBQ,CIT_031,ADD_411,25,No,Yes,Pay_002,RAT_002,4.1,575,28-12-2018
+17558738,Blue House Cafe,"Coffee and Tea, Mediterranean",CIT_032,ADD_412,10,No,No,Pay_003,RAT_002,4.3,88,28-12-2018
+17697444,Masala Grill & Coffee House,"Indian, Middle Eastern",CIT_033,ADD_413,10,No,No,Pay_003,RAT_003,3.2,18,28-12-2018
+17696871,Brown Bottle The Cedar Falls,"Italian, Pizza, Vegetarian",CIT_033,ADD_414,25,No,Yes,Pay_002,RAT_004,3.7,134,28-12-2018
+17696891,Four Queens Dairy Cream,Desserts,CIT_033,ADD_415,10,No,No,Pay_003,RAT_004,3.9,190,28-12-2018
+17696901,Hong Kong Chinese Restaurant,Chinese,CIT_033,ADD_416,10,No,No,Pay_003,RAT_004,3.8,136,28-12-2018
+17697384,HuHot Mongolian Grill,"Asian, Chinese",CIT_033,ADD_417,25,No,Yes,Pay_002,RAT_004,3.7,113,28-12-2018
+17697417,J's Homestyle Cooking,"American, Breakfast",CIT_033,ADD_418,10,No,No,Pay_003,RAT_004,3.6,69,28-12-2018
+17696918,Montage,"American, Italian, Seafood",CIT_033,ADD_419,40,Yes,Yes,Pay_004,RAT_004,3.6,89,28-12-2018
+17696920,Mulligan's Brick Oven Grill,"Burger, Pizza, Sandwich",CIT_033,ADD_420,25,No,Yes,Pay_002,RAT_004,3.6,80,28-12-2018
+17697398,Sakura,"Japanese, Sushi",CIT_033,ADD_421,40,Yes,Yes,Pay_004,RAT_004,3.8,175,28-12-2018
+17697406,Scratch,"Coffee and Tea, Desserts, Beverages",CIT_033,ADD_422,10,No,No,Pay_003,RAT_004,3.7,136,28-12-2018
+17696941,SOHO Sushi Bar & Deli,"Sandwich, Sushi, Tapas",CIT_033,ADD_423,25,No,Yes,Pay_002,RAT_004,3.6,114,28-12-2018
+17696955,Texas Roadhouse,"American, BBQ, Steak",CIT_033,ADD_424,25,No,Yes,Pay_002,RAT_004,3.6,93,28-12-2018
+17696957,Tony's La Pizzeria,"Pizza, Sandwich",CIT_033,ADD_425,25,No,Yes,Pay_002,RAT_004,3.6,89,28-12-2018
+17697418,Chapala,Mexican,CIT_033,ADD_426,25,No,Yes,Pay_002,RAT_004,3.6,69,28-12-2018
+17697386,Galleria de Paco,American,CIT_033,ADD_427,40,Yes,Yes,Pay_004,RAT_004,3.6,86,28-12-2018
+17697224,Golden China,Chinese,CIT_033,ADD_428,10,No,No,Pay_003,RAT_004,3.7,73,28-12-2018
+17697304,Rudy's Tacos,Mexican,CIT_033,ADD_429,25,No,Yes,Pay_002,RAT_004,3.6,104,28-12-2018
+17697389,The Screaming Eagle,"American, Bar Food",CIT_033,ADD_430,10,No,No,Pay_003,RAT_004,3.7,101,28-12-2018
+17697424,The Thai Bowl,Thai,CIT_033,ADD_431,10,No,No,Pay_003,RAT_004,3.5,58,28-12-2018
+17697332,Tokyo Japanese Steak House,"Japanese, Steak, Sushi",CIT_033,ADD_432,25,No,Yes,Pay_002,RAT_004,3.9,156,28-12-2018
+17694056,Theo Yianni's Authentic Greek Restaurant,"Burger, Greek, Sandwich",CIT_034,ADD_433,25,No,Yes,Pay_002,RAT_004,3.9,156,28-12-2018
+17559793,Fishpatrick's Crabby Cafe,"Burger, Seafood, Steak",CIT_035,ADD_434,25,No,Yes,Pay_002,RAT_003,3.2,16,28-12-2018
