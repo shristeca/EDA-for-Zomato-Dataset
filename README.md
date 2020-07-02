@@ -257,6 +257,21 @@ XML stores the data and each element is defined using tags. XML documents are us
 ### GRAPH DATABASES
 Graph database are the same as relational database that represents data in the form of graph. The nodes are the entities and the relations are the joining of the two nodes.
 We have used Neo4j, a graph database tool to develop the graphs. We use cypher query to develop the graphs in Neo4j.
+A sample output of the graphs got is shown below.
+
+##### Payments -> Restaurants <- Ratings
+This graph show the relation between Restaurants, ratings and payments.
+
+![image](https://user-images.githubusercontent.com/52580630/86418049-dcab9400-bcc6-11ea-9c72-cf5b9d2ecc18.png)
+
+##### Restaurants -> City
+This graph shows the relation between restaurant and City.
+
+![image](https://user-images.githubusercontent.com/52580630/86418057-e208de80-bcc6-11ea-9794-0095be7b4f81.png)
+
+Finally a table is created using the above relation to get the Restaurant name, Cuisine type, City name and its Aggregate rating based on the rating text.
+
+![image](https://user-images.githubusercontent.com/52580630/86418074-eaf9b000-bcc6-11ea-91a1-6b857440ddc8.png)
 
 ### FINAL INSIGHTS
 From the analysis done we can come to a conclusion that,
